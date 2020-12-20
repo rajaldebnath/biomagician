@@ -287,6 +287,10 @@ R package | FindMyFriends | Fast alignment-free pangenome creation and explorati
 R package | dadasnake | is a Snakemake workflow to process amplicon sequencing data, from raw fastq-files to taxonomically assigned "OTU" tables, based on the DADA2 method | [660], [661]  
 Tool | AMRtime | Metagenomic AMR detection using hierarchical machine learning models | [662]
 Tool | panaroo | An updated pipeline for pangenome investigation | [663], [664]
+Pipeline | TORMES | An automated pipeline for whole bacterial genome analysis of genomes and/or raw Illumina paired-end sequencing data, regardless the number, origin or species | [665], [666]
+Pipeline | ASAP3 | Automatic Bacterial Isolate Assembly, Annotation and Analyses Pipeline | [667], [668]
+Pipeline | nullarbor | Pipeline to generate complete public health microbiology reports from sequenced isolates | [669]
+Pipeline | Bactopia | Bactopia is a flexible pipeline for complete analysis of bacterial genomes | [670], [671]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1121,3 +1125,10 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [662]: https://github.com/beiko-lab/AMRtime
 [663]: https://gtonkinhill.github.io/panaroo/#/
 [664]: https://www.biorxiv.org/content/10.1101/2020.01.28.922989v1.full.pdf
+[665]: https://github.com/nmquijada/tormes
+[666]: https://doi.org/10.1093/bioinformatics/btz220
+[667]: https://github.com/oschwengers/asap
+[668]: https://doi.org/10.1371/journal.pcbi.1007134
+[669]: https://github.com/tseemann/nullarbor
+[670]: https://msystems.asm.org/content/5/4/e00190-20
+[671]: https://github.com/bactopia/bactopia
