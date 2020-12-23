@@ -377,6 +377,7 @@ R package | patchwork | The goal of patchwork is to make it ridiculously simple 
 R Package | karyoploteR | R package to visualize genomic features on genomes - can plot anything that has genomic coordinates - maybe read depth of sequencing too | [565]
 R tutorial | kateto | Network visualization with R | [575]
 R package | rayshader | is an open source package for producing 2D and 3D data visualizations in R | [638], [639]
+Webapp | biorender | a webapp for scientific illustrations with template icons to use | [672]
  
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -1132,3 +1133,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [669]: https://github.com/tseemann/nullarbor
 [670]: https://msystems.asm.org/content/5/4/e00190-20
 [671]: https://github.com/bactopia/bactopia
+[672]: https://app.biorender.com/
