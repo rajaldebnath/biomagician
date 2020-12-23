@@ -81,7 +81,7 @@ Category          | Name               |                 Description            
  Metagenomics | SingleM | SingleM is a tool to find the abundances of discrete operational taxonomic units (OTUs) directly from shotgun metagenome data, without heavy reliance on reference sequence databases. It is able to differentiate closely related species even if those species are from lineages new to science. | [13]
  Gene annotation | Pulpy | An automated, reproducible and scalable prediction of Polysaccharide Utilisation Loci (PUL) in 5414 public Bacteroidetes genomes. The predictions are fully open and can be accessed and used by any researcher, commercial or otherwise. | [17] [18] [19]; preprint [20]
  16S pipeline | mare | The mare R package is an easy-to-use pipeline for microbiota analysis based on 16S-amplicon reads. It takes the raw reads, creates taxonomic tables, visualises the results, and finally identifies organisms significantly associated with variables of interest. For read processing, OTU clustering, and taxonomic annotation | [32]
-WGS assembly pipeline | pgap | The official bacterial whole genome assembly pipeline of NCBI | Github: [33]
+WGS assembly pipeline | pgap | The official bacterial whole genome assembly pipeline of NCBI | [33], [674]
 r-package|picante|Phylocom integration, community analyses, null-models, traits and evolution in R|[39]
 tree-modeling|iq-tree| Fast and effective stochastic algorithm to reconstruct phylogenetic trees by maximum likelihood. IQ-TREE compares favorably to RAxML and PhyML in terms of likelihood while requiring similar amount of computing time |[45][46]
 modeling|PartitionFinder2| PartitionFinder2 is a program for selecting best-fit partitioning schemes and models of evolution for nucleotide, amino acid, and morphology alignments.|[47]
@@ -1136,3 +1136,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [671]: https://github.com/bactopia/bactopia
 [672]: https://app.biorender.com/
 [673]: https://www.commonwl.org/
+[674]: https://www.youtube.com/watch?v=pNn_-_46lpI&ab_channel=NCBI
