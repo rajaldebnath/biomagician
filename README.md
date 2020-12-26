@@ -208,7 +208,7 @@ Tool | OPERA-MS | OPERA-MS is a hybrid metagenomic assembler which combines the 
 Tool | traitar | Traitar is a software for characterizing microbial samples from nucleotide or protein sequences. It can accurately phenotype 67 diverse traits. | [418], [419], [420]
 Tool | PhyloRank | PhyloRank provide functionality for calculating the relative evolutionary divergence (RED) of taxa in a tree and for finding the best placement of taxonomic labels in a tree. | [421]
 Tool | AnnoTree | is a web tool for visualization of genome annotations across large phylogenetic trees. | [422], [423], [424]
-Tool | AMRfinder | Antibiotic resistance gene finder from NCBI | [425], [426]
+Tool | AMRfinderPlus | Antibiotic resistance gene finder from NCBI | [425], [426], [678]
 Tool | nanotext | This library enables the use of embedding vectors generated from a large corpus of protein domains to search for similar genomes, where similar is the cosine similarity between one genome's vector and another's. Think about protein domains as words, genomes as documents, and search as a form of document retrieval based on the notion of topic. | [427], [428], [453]
 Tool | biomartr | Download genomes from NCBI or other databases by specifying species or group name automatically in R | [429]
 Tool | Starmr| Tool in bioconda to scan for through plasmidfinder, Resfinder, pointfinder and then produce nice summary files with the results | [430]
@@ -285,6 +285,7 @@ Tool | OrthoVenn2 | is a web platform for comparison and annotation of orthologo
 Tool | genomeribbon | easy to use website to assess a genome assembly with raw reads, long reads and short reads | [653]
 R package | FindMyFriends | Fast alignment-free pangenome creation and exploration | [654], [655]
 R package | dadasnake | is a Snakemake workflow to process amplicon sequencing data, from raw fastq-files to taxonomically assigned "OTU" tables, based on the DADA2 method | [660], [661]  
+
 Tool | AMRtime | Metagenomic AMR detection using hierarchical machine learning models | [662]
 Tool | panaroo | An updated pipeline for pangenome investigation | [663], [664]
 Pipeline | TORMES | An automated pipeline for whole bacterial genome analysis of genomes and/or raw Illumina paired-end sequencing data, regardless the number, origin or species | [665], [666]
@@ -293,6 +294,7 @@ Pipeline | nullarbor | Pipeline to generate complete public health microbiology 
 Pipeline | Bactopia | Bactopia is a flexible pipeline for complete analysis of bacterial genomes | [670], [671]
 Pipeline | Common Workflow Language | an open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments | [673]
 Metric | bacterialEvolutionMetrics | Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries | [675], [676]
+Tool | NGSpeciesID is a tool for clustering and consensus forming of targeted ONT reads | [677], [678]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1140,3 +1142,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [674]: https://www.youtube.com/watch?v=pNn_-_46lpI&ab_channel=NCBI
 [675]: https://github.com/MrOlm/bacterialEvolutionMetrics
 [676]: https://msystems.asm.org/content/5/1/e00731-19
+[677]: https://github.com/ksahlin/NGSpeciesID
+[678]: https://github.com/ncbi/amr/wiki
+
