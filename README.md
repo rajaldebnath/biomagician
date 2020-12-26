@@ -292,6 +292,7 @@ Pipeline | ASAP3 | Automatic Bacterial Isolate Assembly, Annotation and Analyses
 Pipeline | nullarbor | Pipeline to generate complete public health microbiology reports from sequenced isolates | [669]
 Pipeline | Bactopia | Bactopia is a flexible pipeline for complete analysis of bacterial genomes | [670], [671]
 Pipeline | Common Workflow Language | an open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments | [673]
+Metric | bacterialEvolutionMetrics | Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries | [675], [676]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1137,3 +1138,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [672]: https://app.biorender.com/
 [673]: https://www.commonwl.org/
 [674]: https://www.youtube.com/watch?v=pNn_-_46lpI&ab_channel=NCBI
+[675]: https://github.com/MrOlm/bacterialEvolutionMetrics
+[676]: https://msystems.asm.org/content/5/1/e00731-19
