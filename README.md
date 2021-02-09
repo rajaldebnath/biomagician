@@ -382,6 +382,7 @@ R Package | karyoploteR | R package to visualize genomic features on genomes - c
 R tutorial | kateto | Network visualization with R | [575]
 R package | rayshader | is an open source package for producing 2D and 3D data visualizations in R | [638], [639]
 Webapp | biorender | a webapp for scientific illustrations with template icons to use | [672]
+App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
  
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -1144,4 +1145,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [676]: https://msystems.asm.org/content/5/1/e00731-19
 [677]: https://github.com/ksahlin/NGSpeciesID
 [678]: https://github.com/ncbi/amr/wiki
-
+[679]: https://www.snapgene.com/snapgene-viewer/
