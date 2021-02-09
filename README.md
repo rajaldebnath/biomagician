@@ -383,7 +383,8 @@ R tutorial | kateto | Network visualization with R | [575]
 R package | rayshader | is an open source package for producing 2D and 3D data visualizations in R | [638], [639]
 Webapp | biorender | a webapp for scientific illustrations with template icons to use | [672]
 App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
- 
+R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
+
 ## Modelling
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -1146,3 +1147,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [677]: https://github.com/ksahlin/NGSpeciesID
 [678]: https://github.com/ncbi/amr/wiki
 [679]: https://www.snapgene.com/snapgene-viewer/
+[680]: https://github.com/ramadatta/AnnVis
