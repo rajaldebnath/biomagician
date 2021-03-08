@@ -295,7 +295,7 @@ Pipeline | Bactopia | Bactopia is a flexible pipeline for complete analysis of b
 Pipeline | Common Workflow Language | an open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments | [673]
 Metric | bacterialEvolutionMetrics | Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries | [675], [676]
 Tool | NGSpeciesID is a tool for clustering and consensus forming of targeted ONT reads | [677], [678]
-Catalogue | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS TOOLS | [681]
+Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS TOOLS | [681]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -456,7 +456,7 @@ Tutorial | Microbiome Utilities | a wrapper tool R package for phyloseq | [530]
 Review | Data Science in Microbiome | A nice review by Leo Lathi for various tools and methods available for microbiome analysis with references to the specific tools that implement methods | [532]
 Tool, API | IPATH python wrapper | A nice wrapper in python for the IPATH3 API to computationally create graphs | [545]
 R Package | formattable | nice package to make nice table in Rmarkdown for nicer formatted output | [551]
-R Packages | A curated list of awesome R frameworks, libraries and software | [588]
+R Packages | awesome-r | A curated list of awesome R frameworks, libraries and software | [588]
 Book | R for Data Science | This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it | [612]
 Website | Git stuff explained | Nice website that easily explains all the git commands for command line | [624]
 Tool | Type Strain genome Server DSMZ | Web tool by DSMZ to type novel genomes based on their collection of type strains | [625]
