@@ -293,7 +293,7 @@ Pipeline | nullarbor | Pipeline to generate complete public health microbiology 
 Pipeline | Bactopia | Bactopia is a flexible pipeline for complete analysis of bacterial genomes | [670], [671]
 Pipeline | Common Workflow Language | an open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments | [673]
 Metric | bacterialEvolutionMetrics | Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries | [675], [676]
-Tool | NGSpeciesID is a tool for clustering and consensus forming of targeted ONT reads | [677], [678]
+Tool | NGSpeciesID | is a tool for clustering and consensus forming of targeted ONT reads | [677], [678]
 Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS TOOLS | [681]
 
 ## Biostatistic
