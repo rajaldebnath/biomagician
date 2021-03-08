@@ -285,7 +285,6 @@ Tool | OrthoVenn2 | is a web platform for comparison and annotation of orthologo
 Tool | genomeribbon | easy to use website to assess a genome assembly with raw reads, long reads and short reads | [653]
 R package | FindMyFriends | Fast alignment-free pangenome creation and exploration | [654], [655]
 R package | dadasnake | is a Snakemake workflow to process amplicon sequencing data, from raw fastq-files to taxonomically assigned "OTU" tables, based on the DADA2 method | [660], [661]  
-
 Tool | AMRtime | Metagenomic AMR detection using hierarchical machine learning models | [662]
 Tool | panaroo | An updated pipeline for pangenome investigation | [663], [664]
 Pipeline | TORMES | An automated pipeline for whole bacterial genome analysis of genomes and/or raw Illumina paired-end sequencing data, regardless the number, origin or species | [665], [666]
