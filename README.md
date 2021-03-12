@@ -295,6 +295,8 @@ Pipeline | Common Workflow Language | an open standard for describing analysis w
 Metric | bacterialEvolutionMetrics | Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries | [675], [676]
 Tool | NGSpeciesID | is a tool for clustering and consensus forming of targeted ONT reads | [677], [678]
 Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS TOOLS | [681]
+Tool | fARGene | Fragmented Antibiotic Resistance Gene iENntifiEr | [682], [683]
+Pipeline | PathoFac | a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data | [684], [685]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1149,3 +1151,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [679]: https://www.snapgene.com/snapgene-viewer/
 [680]: https://github.com/ramadatta/AnnVis
 [681]: https://long-read-tools.org/table.html
+[682]: https://github.com/fannyhb/fargene
+[683]: https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-019-0670-1.pdf
+[684]: https://git-r3lab.uni.lu/laura.denies/PathoFact/
+[685]: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00993-9
