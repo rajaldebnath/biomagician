@@ -297,6 +297,7 @@ Tool | NGSpeciesID | is a tool for clustering and consensus forming of targeted 
 Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS TOOLS | [681]
 Tool | fARGene | Fragmented Antibiotic Resistance Gene iENntifiEr | [682], [683]
 Pipeline | PathoFac | a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data | [684], [685]
+Tool | MFEprimer | a functional primer quality control program for checking non-specific amplicons, dimers, hairpins and other parameters | [686], [687], [688]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1155,3 +1156,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [683]: https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-019-0670-1.pdf
 [684]: https://git-r3lab.uni.lu/laura.denies/PathoFact/
 [685]: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00993-9
+[686]: https://doi.org/10.1093/nar/gkz351
+[687]: https://mfeprimer3.igenetech.com/spec
+[688]: https://www.mfeprimer.com/mfeprimer-3.1/
