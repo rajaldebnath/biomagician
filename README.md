@@ -298,6 +298,7 @@ Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS 
 Tool | fARGene | Fragmented Antibiotic Resistance Gene iENntifiEr | [682], [683]
 Pipeline | PathoFac | a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data | [684], [685]
 Tool | MFEprimer | a functional primer quality control program for checking non-specific amplicons, dimers, hairpins and other parameters | [686], [687], [688]
+Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -354,6 +355,8 @@ R package | Breakaway | R package for r functions for alpha diversity measuremen
 R package | seqgroup | The seqgroup R package offers a collection of functions that support the analysis of microbial sequencing data with a group structure | [631], [632]
 R package | ranomaly | R package for statistical analyses and visualization of 16S data | [656], [657]
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
+R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
+R package | MicEco | Various functions for analysis for microbial community data | [693]
 
 
 ## Visualization
@@ -1159,3 +1162,12 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [686]: https://doi.org/10.1093/nar/gkz351
 [687]: https://mfeprimer3.igenetech.com/spec
 [688]: https://www.mfeprimer.com/mfeprimer-3.1/
+[689]: https://github.com/chrisquince/STRONG
+[690]: https://github.com/Sebastien-Raguideau/strain_resolution_practical
+[691]: https://doi.org/10.1101/2020.09.06.284828
+[692]: https://github.com/schuyler-smith/phylosmith/
+[693]: https://github.com/Russel88/MicEco/
+[694]:
+[695]:
+[696]:
+
