@@ -360,6 +360,7 @@ R package | ranomaly | R package for statistical analyses and visualization of 1
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
 R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
+Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
 
 
 ## Visualization
@@ -1176,5 +1177,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [695]: https://doi.org/10.1093/bioinformatics/btx469
 [696]: https://omarwagih.github.io/ggseqlogo/#accepted_input_formats
 [697]: https://github.com/sushilab/mvirs
+[698]: https://metagenome-atlas.readthedocs.io/en/latest/
+[699]: https://metagenome-atlas.github.io/
+[700]: https://github.com/metagenome-atlas/atlas
+[701]: https://10.1186/s12859-020-03585-4
 
 
