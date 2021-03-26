@@ -398,6 +398,7 @@ Webapp | biorender | a webapp for scientific illustrations with template icons t
 App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
 R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
 R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
+R script | network visualization | 
 
 ## Modelling
 Category          | Name               |                 Description                    | Link              
