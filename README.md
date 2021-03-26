@@ -301,6 +301,9 @@ Tool | MFEprimer | a functional primer quality control program for checking non-
 Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691]
 Tool | NanoClust | De novo clustering and consensus building for ONT 16S sequencing data | [694]
 Tool | mVIRs | a tool that locates integration sites of inducible prophages in bacterial genomes | [697]
+Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
+Tool | VIRify | a recently developed pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies | [702]
+
 
 
 ## Biostatistic
@@ -360,7 +363,7 @@ R package | ranomaly | R package for statistical analyses and visualization of 1
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
 R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
-Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
+
 
 
 ## Visualization
@@ -1181,5 +1184,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [699]: https://metagenome-atlas.github.io/
 [700]: https://github.com/metagenome-atlas/atlas
 [701]: https://10.1186/s12859-020-03585-4
+[702]: https://github.com/EBI-Metagenomics/emg-viral-pipeline
 
 
