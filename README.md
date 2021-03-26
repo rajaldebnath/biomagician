@@ -299,6 +299,8 @@ Tool | fARGene | Fragmented Antibiotic Resistance Gene iENntifiEr | [682], [683]
 Pipeline | PathoFac | a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data | [684], [685]
 Tool | MFEprimer | a functional primer quality control program for checking non-specific amplicons, dimers, hairpins and other parameters | [686], [687], [688]
 Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691]
+Tool | NanoClust | De novo clustering and consensus building for ONT 16S sequencing data | [694]
+
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -390,6 +392,7 @@ R package | rayshader | is an open source package for producing 2D and 3D data v
 Webapp | biorender | a webapp for scientific illustrations with template icons to use | [672]
 App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
 R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
+R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
 
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -547,7 +550,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [71]: https://qiita.ucsd.edu/
 [72]: https://www.nature.com/articles/s41592-018-0141-9
 [73]: https://github.com/biocore/qiita
-[74]: https://f1000research.com/articles/5-1492/v2
+[74]: https://f1000research.com/articles/5-
+2/v2
 [75]: http://gtrnadb.ucsc.edu/
 [76]: http://albertsenlab.org/ampvis2-ordination/
 [77]: http://huttenhower.sph.harvard.edu/ccrepe
@@ -1167,7 +1171,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [691]: https://doi.org/10.1101/2020.09.06.284828
 [692]: https://github.com/schuyler-smith/phylosmith/
 [693]: https://github.com/Russel88/MicEco/
-[694]:
-[695]:
-[696]:
+[694]: https://github.com/genomicsITER/NanoCLUST
+[695]: https://doi.org/10.1093/bioinformatics/btx469
+[696]: https://omarwagih.github.io/ggseqlogo/#accepted_input_formats
 
