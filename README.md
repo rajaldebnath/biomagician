@@ -304,8 +304,6 @@ Tool | mVIRs | a tool that locates integration sites of inducible prophages in b
 Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
 Tool | VIRify | a recently developed pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies | [702]
 
-
-
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -365,7 +363,6 @@ R package | phylosmith | A conglomeration of functions that I have written, that
 R package | MicEco | Various functions for analysis for microbial community data | [693]
 
 
-
 ## Visualization
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -398,7 +395,7 @@ Webapp | biorender | a webapp for scientific illustrations with template icons t
 App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
 R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
 R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
-R script | network visualization | 
+
 
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -557,8 +554,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [71]: https://qiita.ucsd.edu/
 [72]: https://www.nature.com/articles/s41592-018-0141-9
 [73]: https://github.com/biocore/qiita
-[74]: https://f1000research.com/articles/5-
-2/v2
+[74]: https://f1000research.com/articles/5-1492/v2
 [75]: http://gtrnadb.ucsc.edu/
 [76]: http://albertsenlab.org/ampvis2-ordination/
 [77]: http://huttenhower.sph.harvard.edu/ccrepe
@@ -1189,5 +1185,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [702]: https://github.com/EBI-Metagenomics/emg-viral-pipeline
 [703]: https://pitch.com/
 [704]: https://github.com/Sebastien-Raguideau/strain_resolution_practical
-
-
+Save
