@@ -300,6 +300,7 @@ Pipeline | PathoFac | a pipeline for the prediction of virulence factors and ant
 Tool | MFEprimer | a functional primer quality control program for checking non-specific amplicons, dimers, hairpins and other parameters | [686], [687], [688]
 Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691]
 Tool | NanoClust | De novo clustering and consensus building for ONT 16S sequencing data | [694]
+Tool | mVIRs | a tool that locates integration sites of inducible prophages in bacterial genomes | [697]
 
 
 ## Biostatistic
@@ -1174,4 +1175,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [694]: https://github.com/genomicsITER/NanoCLUST
 [695]: https://doi.org/10.1093/bioinformatics/btx469
 [696]: https://omarwagih.github.io/ggseqlogo/#accepted_input_formats
+[697]: https://github.com/sushilab/mvirs
+
 
