@@ -475,6 +475,7 @@ Book | R for Data Science | This book will teach you how to do data science with
 Website | Git stuff explained | Nice website that easily explains all the git commands for command line | [624]
 Tool | Type Strain genome Server DSMZ | Web tool by DSMZ to type novel genomes based on their collection of type strains | [625]
 Website | Beta diversity distances | Nice website that has the math equations for most of the beta diversity distances | [630]
+App | Pitch | Collaborative presentation software for modern teams | [703]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1186,5 +1187,4 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [700]: https://github.com/metagenome-atlas/atlas
 [701]: https://10.1186/s12859-020-03585-4
 [702]: https://github.com/EBI-Metagenomics/emg-viral-pipeline
-
-
+[703]: https://pitch.com/
