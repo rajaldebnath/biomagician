@@ -298,7 +298,7 @@ Catalogue | long-read-tools | A CATALOGUE OF LONG READ SEQUENCING DATA ANALYSIS 
 Tool | fARGene | Fragmented Antibiotic Resistance Gene iENntifiEr | [682], [683]
 Pipeline | PathoFac | a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data | [684], [685]
 Tool | MFEprimer | a functional primer quality control program for checking non-specific amplicons, dimers, hairpins and other parameters | [686], [687], [688]
-Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691]
+Pipeline | STRONG | STRONG resolves strains on assembly graphs by resolving variants on core COGs using co-occurrence across multiple samples | [689], [690], [691],[704]
 Tool | NanoClust | De novo clustering and consensus building for ONT 16S sequencing data | [694]
 Tool | mVIRs | a tool that locates integration sites of inducible prophages in bacterial genomes | [697]
 Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
@@ -1188,3 +1188,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [701]: https://10.1186/s12859-020-03585-4
 [702]: https://github.com/EBI-Metagenomics/emg-viral-pipeline
 [703]: https://pitch.com/
+[704]: https://github.com/Sebastien-Raguideau/strain_resolution_practical
+
+
