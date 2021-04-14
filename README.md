@@ -305,6 +305,7 @@ Tool | mVIRs | a tool that locates integration sites of inducible prophages in b
 Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
 Tool | VIRify | a recently developed pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies | [702]
 Plattform | BioContainers | is a community-driven project that provides the infrastructure and basic guidelines to create, manage and distribute bioinformatics packages (e.g conda) and containers (e.g docker, singularity) | [705], [706]
+Tool | DeepMAsED | deep-learning based evaluating the quality of metagenomic assemblies | [708], [709]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1191,6 +1192,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [705]: https://biocontainers.pro/
 [706]: https://biocontainers-edu.readthedocs.io/en/latest/
 [707]: https://openbis.ch/
-[708]:
+[708]: https://doi.org/10.1093/bioinformatics/btaa124
+[709]: https://github.com/leylabmpi/DeepMAsED
 
 Save
