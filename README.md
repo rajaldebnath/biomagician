@@ -71,6 +71,7 @@ Database | Microbiome Database (old Integrated Gene Catalogue) | Microbiome data
 Database | Human Gut metabolic Models | Human curated database by Raes lab to link pathway identifiers to metabolic functions which can be used for metagenomic samples to get metabolic functions | [510]
 Database | CAZy | The Carbohydrate-Active enZYmes Database CAZy database describes the families of structurally-related catalytic and carbohydrate-binding modules (or functional domains) of enzymes that degrade, modify, or create glycosidic bonds. | [18], [19]
 Database | ImmeDB | Intestinal microbiome mobile element is a database dedicated to the collection, classification, and annotation of mobile genetic elements (MGEs) from gut microbiome | [595], [596]
+LIMS | openBIS | open source Laboratory Notebok & Inventory manager | [707]
 
 
 ## Bioinformatic
@@ -303,6 +304,7 @@ Tool | NanoClust | De novo clustering and consensus building for ONT 16S sequenc
 Tool | mVIRs | a tool that locates integration sites of inducible prophages in bacterial genomes | [697]
 Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake. It handles all steps from QC, Assembly, Binning, to Annotation | [698], [699], [700], [701]
 Tool | VIRify | a recently developed pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies | [702]
+Plattform | BioContainers | is a community-driven project that provides the infrastructure and basic guidelines to create, manage and distribute bioinformatics packages (e.g conda) and containers (e.g docker, singularity) | [705], [706]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -361,6 +363,7 @@ R package | ranomaly | R package for statistical analyses and visualization of 1
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
 R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
+
 
 
 ## Visualization
@@ -1185,4 +1188,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [702]: https://github.com/EBI-Metagenomics/emg-viral-pipeline
 [703]: https://pitch.com/
 [704]: https://github.com/Sebastien-Raguideau/strain_resolution_practical
+[705]: https://biocontainers.pro/
+[706]: https://biocontainers-edu.readthedocs.io/en/latest/
+[707]: https://openbis.ch/
+[708]:
+
 Save
