@@ -315,6 +315,7 @@ Plattform | BioContainers | is a community-driven project that provides the infr
 Tool | DeepMAsED | deep-learning based evaluating the quality of metagenomic assemblies | [708], [709]
 Tool | minMLST | a machine-learning based methodology for identifying a minimal subset of genes that preserves high discrimination among bacterial strains | [713], [714]
 Tool | hAMRonization | CLI parser tools combine the outputs of disparate antimicrobial resistance gene detection tools into a single unified format | [715]
+Tool | PPanGGOLiN | Depicting microbial species diversity via a Partitioned PanGenome Graph Of Linked Neighbors | [717], [718]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1212,5 +1213,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [714]: https://doi.org/10.1093/bioinformatics/btaa724
 [715]: https://github.com/pha4ge/hAMRonization
 [716]: https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#Personal_websites
+[717]: https://github.com/labgem/PPanGGOLiN
+[718]: https://doi.org/10.1371/journal.pcbi.1007732
 
 Save
