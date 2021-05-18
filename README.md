@@ -408,6 +408,8 @@ Webapp | biorender | a webapp for scientific illustrations with template icons t
 App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, annotation, and sharing capabilities as the fully enabled SnapGene software | [679]
 R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
 R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
+R Markdown | webpage | Creating websites in R | [716]
+
 
 
 ## Modelling
@@ -1209,5 +1211,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [713]: https://github.com/shanicohen33/minMLST
 [714]: https://doi.org/10.1093/bioinformatics/btaa724
 [715]: https://github.com/pha4ge/hAMRonization
+[716]: https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#Personal_websites
 
 Save
