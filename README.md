@@ -313,6 +313,8 @@ Tool | Metagenome-Atlas | a easy-to-use metagenomic pipeline based on snakemake.
 Tool | VIRify | a recently developed pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies | [702]
 Plattform | BioContainers | is a community-driven project that provides the infrastructure and basic guidelines to create, manage and distribute bioinformatics packages (e.g conda) and containers (e.g docker, singularity) | [705], [706]
 Tool | DeepMAsED | deep-learning based evaluating the quality of metagenomic assemblies | [708], [709]
+Tool | minMLST | a machine-learning based methodology for identifying a minimal subset of genes that preserves high discrimination among bacterial strains | [713], [714]
+Tool | hAMRonization | CLI parser tools combine the outputs of disparate antimicrobial resistance gene detection tools into a single unified format | [715]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1204,5 +1206,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [710]: https://github.com/kaczmarj/singularity-in-docker
 [711]: https://sylabs.io/guides/3.5/user-guide/quick_start.html#quick-installation-steps
 [712]: https://singularityhub.github.io/
+[713]: https://github.com/shanicohen33/minMLST
+[714]: https://doi.org/10.1093/bioinformatics/btaa724
+[715]: https://github.com/pha4ge/hAMRonization
 
 Save
