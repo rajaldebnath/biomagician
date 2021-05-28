@@ -1,5 +1,5 @@
 # biomagician
-Collection of papers and tools that helpful for bioinformatic &amp; biostatistic analysis.
+Collection of papers and tools that are helpful for bioinformatic &amp; biostatistic analysis.
 
 ## Containers
 Category          | Name               |                 Description                    | Link              
