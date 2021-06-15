@@ -317,6 +317,7 @@ Tool | minMLST | a machine-learning based methodology for identifying a minimal 
 Tool | hAMRonization | CLI parser tools combine the outputs of disparate antimicrobial resistance gene detection tools into a single unified format | [715]
 Tool | PPanGGOLiN | Depicting microbial species diversity via a Partitioned PanGenome Graph Of Linked Neighbors | [717], [718]
 Webtool | OGB | OpenGenomeBrowser is a dynamic and scalable web platform for comparative genomics | [719], [720]
+Pipeline | Bakta | a tool for the rapid & standardized annotation of bacterial genomes & plasmids | [721]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1218,5 +1219,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [718]: https://doi.org/10.1371/journal.pcbi.1007732
 [719]: https://opengenomebrowser.github.io/opengenomebrowser/
 [720]: https://github.com/opengenomebrowser/opengenomebrowser
-
+[721]: https://github.com/oschwengers/bakta#installation
+[722]:
 Save
