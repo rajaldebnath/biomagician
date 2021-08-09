@@ -237,7 +237,7 @@ Shiny-App | MetaboShiny | a novel R and RShiny based metabolomics data analysis 
 Tool | micom | micom is a Python package for metabolic modeling of microbial communities | [492], [493], [494]
 Tool | Struo | a pipeline for building custom databases for common metagenome profilers | [498], [499]
 Tool | ubialSim | This is µbialSim (pronounced microbialsim), a dynamic Flux-Balance-Analysis-based simulator for complex microbial communities. Batch and chemostat operation can be simulated | [500], [501]
-Tool | ConFindr | to find bacterial intra-species contamination in raw Illumina data. It does this by looking for multiple alleles of core, single copy genes. | [507], [508]
+Tool | ConFindr | to find bacterial intra-species contamination in raw Illumina data. It does this by looking for multiple alleles of core, single copy genes. | [507], [508], [722]
 Tool | MetaSanity | a wrapper-script for genome/metagenome evaluation tasks. This script will run common evaluation and annotation programs and create a BioMetaDB project with the integrated results | [509]
 Tool | REAPR | From Sanger institute, it maps paired-end reads to de-novo assembly to check for assembly errors and can break up wrong scaffolds | [511]
 Tool | Kaiju | Metagenomic read classification based on Amino acid sequences. Suggested by Gabi that it works well | [512]
@@ -1220,5 +1220,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [719]: https://opengenomebrowser.github.io/opengenomebrowser/
 [720]: https://github.com/opengenomebrowser/opengenomebrowser
 [721]: https://github.com/oschwengers/bakta#installation
-[722]:
+[722]: https://olc-bioinformatics.github.io/ConFindr/install/#downloading-confindr-databases
 Save
