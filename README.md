@@ -139,7 +139,7 @@ Tool | IGGsearch | it accurately quantifies species presence-absence and species
 Tool | MIDAS-strains | Estimate strains from reads mapped to pan-genomes from the MIDAS database | [201]
 Tool | AssemblyEvaluator | Evaluate the completedness and precision of a (meta)genomic assembly by mapping contigs to a complete reference genome | [202]
 Tools | Biobakery Workflows | Set of tools by Huttenhower that can be fairly easily executed with pre-defined workflows, useful for metagenomics and metatranscriptomics | [204]
-Tools | Anvi'o | Anvi’o is an open-source, community-driven analysis and visualization platform for ‘omics data | [208] [209] [210] [211]
+Tools | Anvi'o | Anvi’o is an open-source, community-driven analysis aation platform for ‘omics data | [208] [209] [210] [211]
 Tool | WAFFLE | the Workflow to Annotate Assemblies and Find Lateral Gene Transfer (LGT) Events | [212]
 Tool | AUTOGRAPH | AUtomatic Transfer by Orthology of Gene Reaction Associations for Pathway Heuristics, is a semi-automatic approach to accelerate the process of genome-scale metabolic network reconstruction by taking full advantage of already manually curated networks | [214]
 Tool | pyTARG | a library that contains functions to work with Genome Scale Metabolic Models with the goal of finding drug targets against cancer | [223] [224]
@@ -412,6 +412,7 @@ App | SnapGeneViewer | SnapGene Viewer includes the same rich visualization, ann
 R script | AnnVis | Tutorial to visualize prokka output using gggenes package | [680]
 R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
 R Markdown | webpage | Creating websites in R | [716]
+App | TreeViewer | Flexible, modular software to visualise and manipulate phylogenetic trees | [723]
 
 
 
@@ -1221,4 +1222,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [720]: https://github.com/opengenomebrowser/opengenomebrowser
 [721]: https://github.com/oschwengers/bakta#installation
 [722]: https://olc-bioinformatics.github.io/ConFindr/install/#downloading-confindr-databases
+[723]: https://treeviewer.org/
 Save
