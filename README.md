@@ -321,6 +321,7 @@ Tool | hAMRonization | CLI parser tools combine the outputs of disparate antimic
 Tool | PPanGGOLiN | Depicting microbial species diversity via a Partitioned PanGenome Graph Of Linked Neighbors | [717], [718]
 Webtool | OGB | OpenGenomeBrowser is a dynamic and scalable web platform for comparative genomics | [719], [720]
 Pipeline | Bakta | a tool for the rapid & standardized annotation of bacterial genomes & plasmids | [721]
+Tool | MentaLiST | The MLST pipeline developed by the PathOGiST research group | [725], [726]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1227,4 +1228,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [722]: https://olc-bioinformatics.github.io/ConFindr/install/#downloading-confindr-databases
 [723]: https://treeviewer.org/
 [724]: https://probebase.csb.univie.ac.at/node/8
+[725]: https://github.com/WGS-TB/MentaLiST
+[726]: https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000146
 Save
