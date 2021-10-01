@@ -79,6 +79,9 @@ Database | Human Gut metabolic Models | Human curated database by Raes lab to li
 Database | CAZy | The Carbohydrate-Active enZYmes Database CAZy database describes the families of structurally-related catalytic and carbohydrate-binding modules (or functional domains) of enzymes that degrade, modify, or create glycosidic bonds. | [18], [19]
 Database | ImmeDB | Intestinal microbiome mobile element is a database dedicated to the collection, classification, and annotation of mobile genetic elements (MGEs) from gut microbiome | [595], [596]
 LIMS | openBIS | open source Laboratory Notebok & Inventory manager | [707]
+Database | probeBase | probeBase is a curated database of rRNA-targeted oligonucleotide probes and primers | [724]
+
+ 
 
 
 ## Bioinformatic
@@ -1223,4 +1226,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [721]: https://github.com/oschwengers/bakta#installation
 [722]: https://olc-bioinformatics.github.io/ConFindr/install/#downloading-confindr-databases
 [723]: https://treeviewer.org/
+[724]: https://probebase.csb.univie.ac.at/node/8
 Save
