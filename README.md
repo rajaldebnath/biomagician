@@ -328,6 +328,7 @@ Tool | mlst | Scan contig files against traditional PubMLST typing schemes | [72
 Tool | snippy | Rapid haploid variant calling and core genome alignment | [733]
 Tool | MUFFIN | a hybrid assembly and differential binning workflow for metagenomics, transcriptomics and pathway analysis. | [734], [735], [736]
 Tool | Pandora | a tool for bacterial genome analysis using a pangenome reference graph (PanRG) | [738], [739], [740]
+Tool | cgmlst | Fork of Torsten Seemanns excellent mlst tool modified for cgMLST | [741]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -425,6 +426,7 @@ R package | ggseqlogo | a versatile R package for drawing sequence logos | [695]
 R Markdown | webpage | Creating websites in R | [716]
 App | TreeViewer | Flexible, modular software to visualise and manipulate phylogenetic trees | [723]
 Software | Graphia | a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets | [732] 
+Tool | Phandango | a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results | [741], [742]
 
 
 ## Modelling
@@ -1255,4 +1257,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [740]: https://github.com/leoisl/make_prg
 [741]: https://github.com/jameshadfield/phandango
 [742]: https://jameshadfield.github.io/phandango/#/examples
+[743]: https://github.com/aldertzomer/cgmlst
 Save
