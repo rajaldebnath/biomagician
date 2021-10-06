@@ -383,6 +383,7 @@ R package | ranomaly | R package for statistical analyses and visualization of 1
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
 R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
+R package | MaAsLin2 | A comprehensive R package for efficiently determining multivariable association between phenotypes, environments, exposures, covariates and microbial meta’omic features | [730], [731]
 
 
 
@@ -420,7 +421,7 @@ R script | AnnVis | Tutorial to visualize prokka output using gggenes package | 
 R package | ggseqlogo | a versatile R package for drawing sequence logos | [695], [696]
 R Markdown | webpage | Creating websites in R | [716]
 App | TreeViewer | Flexible, modular software to visualise and manipulate phylogenetic trees | [723]
-
+Software | Graphia | a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets | [732] 
 
 
 ## Modelling
@@ -430,6 +431,7 @@ Article/Paper | Butyrate & Propionate Pathways | Paper by Flint group that descr
 Tool | curveball | Predicting competition results from growth curves | [368],[369]
 Database | Virtual Metabolic Human | Genome wide metabolic models for 800+ different type strains from the human gut ready for extension | [449]
 Tool | MICOM | Python package using COBRApy for microbial community modelling - sent by lacroix/tomas from recent publication | [615] [Publication](https://msystems.asm.org/content/5/1/e00606-19)
+
 
  ## Other Resources
 Category          | Name               |                 Description                    | Link              
@@ -1236,4 +1238,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [727]: https://typhinet.herokuapp.com/
 [728]: https://pathogen.watch/
 [729]: https://github.com/tseemann/mlst
+[730]: https://huttenhower.sph.harvard.edu/maaslin/
+[731]: https://doi.org/10.1101/2021.01.20.427420
+[732]: https://graphia.app/
+
 Save
