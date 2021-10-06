@@ -322,6 +322,9 @@ Tool | PPanGGOLiN | Depicting microbial species diversity via a Partitioned PanG
 Webtool | OGB | OpenGenomeBrowser is a dynamic and scalable web platform for comparative genomics | [719], [720]
 Pipeline | Bakta | a tool for the rapid & standardized annotation of bacterial genomes & plasmids | [721]
 Tool | MentaLiST | The MLST pipeline developed by the PathOGiST research group | [725], [726]
+Webapp | TyphiNET | The TyphiNET dashboard collates antimicrobial resistance (AMR) and genotype (lineage) information extracted from whole genome sequence (WGS) data from the bacterial pathogen Salmonella Typhi, the agent of typhoid fever. | [727]
+Webapp | Pathogenwatch provides species and taxonomy prediction for over 60,000 variants of bacteria, viruses, and fungi. MLST prediction is available for over 100 species using schemes from PubMLST, Pasteur, and Enterobase | [728]
+Tool | mlst | Scan contig files against traditional PubMLST typing schemes | [729]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1230,4 +1233,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [724]: https://probebase.csb.univie.ac.at/node/8
 [725]: https://github.com/WGS-TB/MentaLiST
 [726]: https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000146
+[727]: https://typhinet.herokuapp.com/
+[728]: https://pathogen.watch/
+[729]: https://github.com/tseemann/mlst
 Save
