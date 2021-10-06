@@ -327,6 +327,7 @@ Webapp | Pathogenwatch provides species and taxonomy prediction for over 60,000 
 Tool | mlst | Scan contig files against traditional PubMLST typing schemes | [729]
 Tool | snippy | Rapid haploid variant calling and core genome alignment | [733]
 Tool | MUFFIN | a hybrid assembly and differential binning workflow for metagenomics, transcriptomics and pathway analysis. | [734], [735], [736]
+Tool | Pandora | a tool for bacterial genome analysis using a pangenome reference graph (PanRG) | [738], [739], [740]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -460,7 +461,7 @@ R Package | ampvis2 | useful tool for nice visualization of amplicon data. Easy 
 R-Markdown | Workshop | OPEN & REPRODUCIBLE MICROBIOME DATA ANALYSIS SPRING SCHOOL 2018 | [96] [97]
 SOPs | IMMSA | The International Metagenomics and Microbiome Standards Alliance (IMMSA) is a non-hierarchical association of microbiome-focused researchers from industry, academia, and government | [123]
 CNGBdb | China National GeneBank DataBase | Archive of a lot of chinese sequencing projects with very nice search function | [140]
-Collection | nf-Core nextflow pipeline | A collection of high quality pipelines for bioinformatic analyses built with nextflow | [181]  
+Collection | nf-Core nextflow pipeline | A collection of high quality pipelines for bioinformatic analyses built with nextflow | [181] 
 Collection | Awesome Nextflow Pipelines | A collection of a bunch of bioinformatic pipelines in nextflow: 16S, assembly, etc. | [188]
 Competition, SOP | Critical Assessment of Metagenome Assessment | Competition where tools are tested on accuracy for strain level binning and assembly (CAMI) | [189]
 Tools | Sanger Pathogen Tools | A collection of tool made by Sanger institute for pathogen/antimicrobial resistance screening, visualization, assembly, annotation | [190]
@@ -1249,4 +1250,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [735]: https://rvandamme.github.io/MUFFIN_Documentation/#introduction
 [736]: https://doi.org/10.1371/journal.pcbi.1008716
 [737]: https://github.com/line/conflr
+[738]: https://github.com/rmcolq/pandora
+[739]: https://doi.org/10.1186/s13059-021-02473-1
+[740]: https://github.com/leoisl/make_prg
+[741]: https://github.com/jameshadfield/phandango
+[742]: https://jameshadfield.github.io/phandango/#/examples
 Save
