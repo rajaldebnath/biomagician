@@ -325,6 +325,7 @@ Tool | MentaLiST | The MLST pipeline developed by the PathOGiST research group |
 Webapp | TyphiNET | The TyphiNET dashboard collates antimicrobial resistance (AMR) and genotype (lineage) information extracted from whole genome sequence (WGS) data from the bacterial pathogen Salmonella Typhi, the agent of typhoid fever. | [727]
 Webapp | Pathogenwatch provides species and taxonomy prediction for over 60,000 variants of bacteria, viruses, and fungi. MLST prediction is available for over 100 species using schemes from PubMLST, Pasteur, and Enterobase | [728]
 Tool | mlst | Scan contig files against traditional PubMLST typing schemes | [729]
+Tool | snippy | Rapid haploid variant calling and core genome alignment | [733]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1241,5 +1242,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [730]: https://huttenhower.sph.harvard.edu/maaslin/
 [731]: https://doi.org/10.1101/2021.01.20.427420
 [732]: https://graphia.app/
-
+[733]: https://github.com/tseemann/snippy
 Save
