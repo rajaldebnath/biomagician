@@ -503,6 +503,7 @@ Website | Git stuff explained | Nice website that easily explains all the git co
 Tool | Type Strain genome Server DSMZ | Web tool by DSMZ to type novel genomes based on their collection of type strains | [625]
 Website | Beta diversity distances | Nice website that has the math equations for most of the beta diversity distances | [630]
 App | Pitch | Collaborative presentation software for modern teams | [703]
+Reporting | conflr | an R package to post R Markdown documents to Confluence, a content collaboration tool by Atlassian | [737]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1247,4 +1248,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [734]: https://github.com/RVanDamme/MUFFIN
 [735]: https://rvandamme.github.io/MUFFIN_Documentation/#introduction
 [736]: https://doi.org/10.1371/journal.pcbi.1008716
+[737]: https://github.com/line/conflr
 Save
