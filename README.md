@@ -329,6 +329,7 @@ Tool | snippy | Rapid haploid variant calling and core genome alignment | [733]
 Tool | MUFFIN | a hybrid assembly and differential binning workflow for metagenomics, transcriptomics and pathway analysis. | [734], [735], [736]
 Tool | Pandora | a tool for bacterial genome analysis using a pangenome reference graph (PanRG) | [738], [739], [740]
 Tool | cgmlst | Fork of Torsten Seemanns excellent mlst tool modified for cgMLST | [741]
+R package | Enriched heatmap | is a special type of heatmap which visualizes the enrichment of genomic signals on specific target regions | [747], [748]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -427,6 +428,8 @@ R Markdown | webpage | Creating websites in R | [716]
 App | TreeViewer | Flexible, modular software to visualise and manipulate phylogenetic trees | [723]
 Software | Graphia | a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets | [732] 
 Tool | Phandango | a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results | [741], [742]
+R package | ComplexHeatmap | provides a highly flexible way to arrange multiple heatmaps and supports self-defined annotation graphics | [744]
+R package | circlize |  it is possible to implement circular heatmaps | [745], [746]
 
 
 ## Modelling
@@ -1258,4 +1261,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [741]: https://github.com/jameshadfield/phandango
 [742]: https://jameshadfield.github.io/phandango/#/examples
 [743]: https://github.com/aldertzomer/cgmlst
+[744]: https://jokergoo.github.io/ComplexHeatmap-reference/book/introduction.html
+[745]: https://jokergoo.github.io/2020/05/21/make-circular-heatmaps/
+[746]: https://jokergoo.github.io/spiralize_vignettes/examples.html#github-commits
+[747]: https://github.com/jokergoo/EnrichedHeatmap
+[748]: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4625-x
 Save
