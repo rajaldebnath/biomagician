@@ -389,6 +389,7 @@ R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Fra
 R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
 R package | MaAsLin2 | A comprehensive R package for efficiently determining multivariable association between phenotypes, environments, exposures, covariates and microbial meta’omic features | [730], [731]
+R package | micropml | User-Friendly R Package for Supervised Machine Learning Pipelines | [749], [750], [751]
 
 
 
@@ -1266,4 +1267,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [746]: https://jokergoo.github.io/spiralize_vignettes/examples.html#github-commits
 [747]: https://github.com/jokergoo/EnrichedHeatmap
 [748]: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4625-x
+[749]: https://github.com/SchlossLab/mikropml
+[750]: https://journals.asm.org/doi/epub/10.1128/mBio.00434-20
+[751]: https://github.com/SchlossLab/mikropml-snakemake-workflow
 Save
