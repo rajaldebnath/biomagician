@@ -330,6 +330,7 @@ Tool | MUFFIN | a hybrid assembly and differential binning workflow for metageno
 Tool | Pandora | a tool for bacterial genome analysis using a pangenome reference graph (PanRG) | [738], [739], [740]
 Tool | cgmlst | Fork of Torsten Seemanns excellent mlst tool modified for cgMLST | [741]
 R package | Enriched heatmap | is a special type of heatmap which visualizes the enrichment of genomic signals on specific target regions | [747], [748]
+R package | Pagoo | is an encapsulated, object-oriented class system for analyzing bacterial pangenomes | [752], [753], [754]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1270,4 +1271,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [749]: https://github.com/SchlossLab/mikropml
 [750]: https://journals.asm.org/doi/epub/10.1128/mBio.00434-20
 [751]: https://github.com/SchlossLab/mikropml-snakemake-workflow
+[752]: https://iferres.github.io/pagoo/index.html
+[753]: https://github.com/iferres/pagoo_publication_scripts
+[754]: https://doi.org/10.1016/j.crmeth.2021.100085
+[755]:
 Save
