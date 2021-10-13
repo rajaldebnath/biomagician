@@ -331,6 +331,9 @@ Tool | Pandora | a tool for bacterial genome analysis using a pangenome referenc
 Tool | cgmlst | Fork of Torsten Seemanns excellent mlst tool modified for cgMLST | [741]
 R package | Enriched heatmap | is a special type of heatmap which visualizes the enrichment of genomic signals on specific target regions | [747], [748]
 R package | Pagoo | is an encapsulated, object-oriented class system for analyzing bacterial pangenomes | [752], [753], [754]
+R package | simurg | Simulate a Bacterial Pangenome in R | [754], [755]
+Nextflow | Porefile | a Nextflow full-length 16S profiling pipeline for ONT reads | [757]
+Tool | MLSTar | R package allows you to easily determine the Multi Locus Sequence Type (MLST) of your genomes | [758], [759]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1274,5 +1277,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [752]: https://iferres.github.io/pagoo/index.html
 [753]: https://github.com/iferres/pagoo_publication_scripts
 [754]: https://doi.org/10.1016/j.crmeth.2021.100085
-[755]:
+[755]: https://github.com/iferres/simurg
+[756]: https://10.1093/bioinformatics/btz735
+[757]: https://github.com/microgenlab/porefile
+[758]: https://github.com/microgenlab/MLSTar
+[759]: https://doi.org/10.7717/peerj.5098
 Save
