@@ -334,6 +334,7 @@ R package | Pagoo | is an encapsulated, object-oriented class system for analyzi
 R package | simurg | Simulate a Bacterial Pangenome in R | [754], [755]
 Nextflow | Porefile | a Nextflow full-length 16S profiling pipeline for ONT reads | [757]
 Tool | MLSTar | R package allows you to easily determine the Multi Locus Sequence Type (MLST) of your genomes | [758], [759]
+Tool | MOB-suite | for clustering, reconstruction and typing of plasmids from draft assemblies | [760]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1282,4 +1283,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [757]: https://github.com/microgenlab/porefile
 [758]: https://github.com/microgenlab/MLSTar
 [759]: https://doi.org/10.7717/peerj.5098
+[760]: https://github.com/phac-nml/mob-suite
+[761]:
 Save
