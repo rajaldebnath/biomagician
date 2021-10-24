@@ -551,7 +551,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [26]: https://elifesciences.org/articles/21887
 [27]: https://rdrr.io/github/vmikk/metagMisc/man/phyloseq_to_df.html
 [28]: https://github.com/mani2012/PathoStat
-[29]: https://microbiome.github.io/microbiome/
+[29]: https://microbiome.github.io/tutorials/
 [30]: https://joey711.github.io/phyloseq/index.html
 [31]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217
 [32]: https://github.com/katrikorpela/mare
