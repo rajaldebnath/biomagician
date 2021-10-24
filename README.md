@@ -391,7 +391,7 @@ R package | Breakaway | R package for r functions for alpha diversity measuremen
 R package | seqgroup | The seqgroup R package offers a collection of functions that support the analysis of microbial sequencing data with a group structure | [631], [632]
 R package | ranomaly | R package for statistical analyses and visualization of 16S data | [656], [657]
 R package | RioNorm2 | A Novel Normalization and Differential Abundance Test Framework for Microbiome Data | [658], [659]
-R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692]
+R package | phylosmith | A conglomeration of functions that I have written, that I find useful, for analyzing phyloseq objects. Phyloseq objects are a great data-standard for microbiome and gene-expression data | [692], [762]
 R package | MicEco | Various functions for analysis for microbial community data | [693]
 R package | MaAsLin2 | A comprehensive R package for efficiently determining multivariable association between phenotypes, environments, exposures, covariates and microbial meta’omic features | [730], [731]
 R package | micropml | User-Friendly R Package for Supervised Machine Learning Pipelines | [749], [750], [751]
@@ -1285,4 +1285,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [759]: https://doi.org/10.7717/peerj.5098
 [760]: https://github.com/phac-nml/mob-suite
 [761]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660255/
+[762]: https://schuyler-smith.github.io/phylosmith/
 Save
