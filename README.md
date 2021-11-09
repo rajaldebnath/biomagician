@@ -517,6 +517,7 @@ Tool | Type Strain genome Server DSMZ | Web tool by DSMZ to type novel genomes b
 Website | Beta diversity distances | Nice website that has the math equations for most of the beta diversity distances | [630]
 App | Pitch | Collaborative presentation software for modern teams | [703]
 Reporting | conflr | an R package to post R Markdown documents to Confluence, a content collaboration tool by Atlassian | [737]
+Tutorial | Galaxy Training | Collection of tutorials developed and maintained by the worldwide Galaxy community | [765]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1289,4 +1290,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [762]: https://schuyler-smith.github.io/phylosmith/
 [763]: https://github.com/leaemiliepradier/PlasForest
 [764]: https://doi.org/10.1186/s12859‑021‑04270‑w
+[765]: https://training.galaxyproject.org/training-material/
 Save
