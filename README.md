@@ -80,6 +80,7 @@ Database | CAZy | The Carbohydrate-Active enZYmes Database CAZy database describ
 Database | ImmeDB | Intestinal microbiome mobile element is a database dedicated to the collection, classification, and annotation of mobile genetic elements (MGEs) from gut microbiome | [595], [596]
 LIMS | openBIS | open source Laboratory Notebok & Inventory manager | [707]
 Database | probeBase | probeBase is a curated database of rRNA-targeted oligonucleotide probes and primers | [724]
+Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
 
  
 
@@ -1291,4 +1292,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [763]: https://github.com/leaemiliepradier/PlasForest
 [764]: https://doi.org/10.1186/s12859‑021‑04270‑w
 [765]: https://training.galaxyproject.org/training-material/
+[766]: https://bugsigdb.org
+[767]: https://github.com/waldronlab/BugSigDB
 Save
