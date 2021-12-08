@@ -439,6 +439,8 @@ Tool | Phandango | a fully interactive tool to allow visualisation of a phylogen
 R package | ComplexHeatmap | provides a highly flexible way to arrange multiple heatmaps and supports self-defined annotation graphics | [744]
 R package | circlize |  it is possible to implement circular heatmaps | [745], [746]
 R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 | [768]
+R package | Simulate colorblindness in production-ready R figures | [769]
+R package | 17 colorblind safe palettes | [770], [771]
 
 
 ## Modelling
@@ -1296,4 +1298,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [766]: https://bugsigdb.org
 [767]: https://github.com/waldronlab/BugSigDB
 [768]: https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
+[769]: https://github.com/clauswilke/colorblindr
+[770]: https://github.com/thomasp85/scico
+[771]: http://www.fabiocrameri.ch/colourmaps.php
 Save
