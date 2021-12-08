@@ -438,6 +438,7 @@ Software | Graphia | a powerful open source visual analytics application develop
 Tool | Phandango | a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results | [741], [742]
 R package | ComplexHeatmap | provides a highly flexible way to arrange multiple heatmaps and supports self-defined annotation graphics | [744]
 R package | circlize |  it is possible to implement circular heatmaps | [745], [746]
+R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 | [768]
 
 
 ## Modelling
@@ -1294,4 +1295,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [765]: https://training.galaxyproject.org/training-material/
 [766]: https://bugsigdb.org
 [767]: https://github.com/waldronlab/BugSigDB
+[768]: https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
 Save
