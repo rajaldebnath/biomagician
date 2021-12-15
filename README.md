@@ -81,6 +81,7 @@ Database | ImmeDB | Intestinal microbiome mobile element is a database dedicated
 LIMS | openBIS | open source Laboratory Notebok & Inventory manager | [707]
 Database | probeBase | probeBase is a curated database of rRNA-targeted oligonucleotide probes and primers | [724]
 Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
+Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 
  
 
@@ -337,6 +338,7 @@ Nextflow | Porefile | a Nextflow full-length 16S profiling pipeline for ONT read
 Tool | MLSTar | R package allows you to easily determine the Multi Locus Sequence Type (MLST) of your genomes | [758], [759]
 Tool | MOB-suite | for clustering, reconstruction and typing of plasmids from draft assemblies | [760], [761]
 Tool | PlasForest | a random forest classifier of contigs to identify contigs of plasmid origin in contig and scaffold genomes | [763], [764]
+Tool | GMGC-mapper | Command line tool to query the Global Microbial Gene Catalog (GMGC) | [774]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1301,4 +1303,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [769]: https://github.com/clauswilke/colorblindr
 [770]: https://github.com/thomasp85/scico
 [771]: http://www.fabiocrameri.ch/colourmaps.php
+[772]: https://gmgc.embl.de/
+[773]: https://doi.org/10.1038/s41586-021-04233-4
+[774]: https://github.com/BigDataBiology/GMGC-mapper
 Save
