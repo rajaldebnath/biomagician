@@ -83,8 +83,6 @@ Database | probeBase | probeBase is a curated database of rRNA-targeted oligonuc
 Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 
- 
-f
 
 ## Bioinformatic
 Category          | Name               |                 Description                    | Link              
@@ -447,6 +445,7 @@ R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggpl
 R package | colorblindr | Simulate colorblindness in production-ready R figures | [769]
 R package | scico | 17 colorblind safe palettes | [770], [771]
 R package | plumbertableau | Integrating Dynamic R and Python Models in Tableau Using plumbertableau | [784], [785]
+R package | Boruta | Feature selection with the Boruta algorithm | [788]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1329,4 +1328,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [785]: https://www.rstudio.com/blog/dynamic-r-and-python-models-in-tableau-using-plumbertableau/?mkt_tok=NzA5LU5YTi03MDYAAAGBfakapZk1gn7pLVcrp5PdLbDaRVhOkCsB4kBFyLzVFBWXg66fn_AsqZzKzNHX4LBqEIs6wWQZklNnmJd31LiCF40bL26zEvCZC-LSLvd20Q
 [786]: http://www.microbialnet.org/mind_home.html
 [787]: https://github.com/BeatsonLab-MicrobialGenomics/micropipe
+[788]: https://www.rdocumentation.org/packages/Boruta/versions/7.0.0/topics/Boruta
 Save
