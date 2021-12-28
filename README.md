@@ -339,6 +339,7 @@ Tool | MLSTar | R package allows you to easily determine the Multi Locus Sequenc
 Tool | MOB-suite | for clustering, reconstruction and typing of plasmids from draft assemblies | [760], [761]
 Tool | PlasForest | a random forest classifier of contigs to identify contigs of plasmid origin in contig and scaffold genomes | [763], [764]
 Tool | GMGC-mapper | Command line tool to query the Global Microbial Gene Catalog (GMGC) | [774]
+Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly of bacterial sequences | [775], [776], [777]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1306,4 +1307,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [772]: https://gmgc.embl.de/
 [773]: https://doi.org/10.1038/s41586-021-04233-4
 [774]: https://github.com/BigDataBiology/GMGC-mapper
+[775]: https://metagraph.ethz.ch/#indexing
+[776]: https://doi.org/10.1101/2020.10.01.322164
+[777]: https://github.com/ratschlab/metagraph
 Save
