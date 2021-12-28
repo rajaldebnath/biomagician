@@ -445,6 +445,10 @@ R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggpl
 R package | Simulate colorblindness in production-ready R figures | [769]
 R package | 17 colorblind safe palettes | [770], [771]
 
+## Pipeline Managers
+Category          | Name               |                 Description                    | Link              
+------------------|--------------------|------------------------------------------------|-------------------
+R package | targets | Managing bioinformatics pipelines with R | [779], [780], [781]
 
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -1311,4 +1315,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [776]: https://doi.org/10.1101/2020.10.01.322164
 [777]: https://github.com/ratschlab/metagraph
 [778]: https://metagraph.ethz.ch/static/docs/index.html
+[779]: https://github.com/joelnitta/targets_bioinfo_example
+[780]: https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/
+[781]: https://books.ropensci.org/targets/index.html
 Save
