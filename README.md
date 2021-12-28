@@ -401,6 +401,7 @@ R package | phylosmith | A conglomeration of functions that I have written, that
 R package | MicEco | Various functions for analysis for microbial community data | [693]
 R package | MaAsLin2 | A comprehensive R package for efficiently determining multivariable association between phenotypes, environments, exposures, covariates and microbial meta’omic features | [730], [731]
 R package | micropml | User-Friendly R Package for Supervised Machine Learning Pipelines | [749], [750], [751]
+R package | shinyML | Compare Supervised Machine Learning Models Using Shiny App | [789]
 
 
 
@@ -1329,4 +1330,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [786]: http://www.microbialnet.org/mind_home.html
 [787]: https://github.com/BeatsonLab-MicrobialGenomics/micropipe
 [788]: https://www.rdocumentation.org/packages/Boruta/versions/7.0.0/topics/Boruta
+[789]: https://github.com/jeanbertinr/shinyml
 Save
