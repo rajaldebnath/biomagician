@@ -84,7 +84,7 @@ Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 
  
-
+f
 
 ## Bioinformatic
 Category          | Name               |                 Description                    | Link              
@@ -529,6 +529,7 @@ Website | Beta diversity distances | Nice website that has the math equations fo
 App | Pitch | Collaborative presentation software for modern teams | [703]
 Reporting | conflr | an R package to post R Markdown documents to Confluence, a content collaboration tool by Atlassian | [737]
 Tutorial | Galaxy Training | Collection of tutorials developed and maintained by the worldwide Galaxy community | [765]
+R package | thesisdown | package to write thesis in Rmarkdown | [782]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1318,4 +1319,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [779]: https://github.com/joelnitta/targets_bioinfo_example
 [780]: https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/
 [781]: https://books.ropensci.org/targets/index.html
+[782]: https://github.com/ismayc/thesisdown
 Save
