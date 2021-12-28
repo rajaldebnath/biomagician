@@ -342,6 +342,7 @@ Tool | PlasForest | a random forest classifier of contigs to identify contigs of
 Tool | GMGC-mapper | Command line tool to query the Global Microbial Gene Catalog (GMGC) | [774]
 Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly of bacterial sequences | [775], [776], [777], [778]
 Tool | MIND | Microbial Interaction Network Database | [786]
+Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction using ONT and Illumina sequencing | [787]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -1327,4 +1328,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [784]: https://rstudio.github.io/plumbertableau/index.html
 [785]: https://www.rstudio.com/blog/dynamic-r-and-python-models-in-tableau-using-plumbertableau/?mkt_tok=NzA5LU5YTi03MDYAAAGBfakapZk1gn7pLVcrp5PdLbDaRVhOkCsB4kBFyLzVFBWXg66fn_AsqZzKzNHX4LBqEIs6wWQZklNnmJd31LiCF40bL26zEvCZC-LSLvd20Q
 [786]: http://www.microbialnet.org/mind_home.html
+[787]: https://github.com/BeatsonLab-MicrobialGenomics/micropipe
 Save
