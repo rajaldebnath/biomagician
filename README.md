@@ -449,6 +449,7 @@ R package | scico | 17 colorblind safe palettes | [770], [771]
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
 R package | targets | Managing bioinformatics pipelines with R | [779], [780], [781]
+Tutorial | bioinformatics-workflows | Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers | [783]
 
 ## Modelling
 Category          | Name               |                 Description                    | Link              
@@ -1320,4 +1321,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [780]: https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/
 [781]: https://books.ropensci.org/targets/index.html
 [782]: https://github.com/ismayc/thesisdown
+[783]: https://github.com/GoekeLab/bioinformatics-workflows
 Save
