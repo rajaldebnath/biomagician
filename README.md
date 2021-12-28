@@ -341,6 +341,7 @@ Tool | MOB-suite | for clustering, reconstruction and typing of plasmids from dr
 Tool | PlasForest | a random forest classifier of contigs to identify contigs of plasmid origin in contig and scaffold genomes | [763], [764]
 Tool | GMGC-mapper | Command line tool to query the Global Microbial Gene Catalog (GMGC) | [774]
 Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly of bacterial sequences | [775], [776], [777], [778]
+Tool | MIND | Microbial Interaction Network Database | [786]
 
 ## Biostatistic
 Category          | Name               |                 Description                    | Link              
@@ -444,6 +445,7 @@ R package | circlize |  it is possible to implement circular heatmaps | [745], [
 R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 | [768]
 R package | colorblindr | Simulate colorblindness in production-ready R figures | [769]
 R package | scico | 17 colorblind safe palettes | [770], [771]
+R package | plumbertableau | Integrating Dynamic R and Python Models in Tableau Using plumbertableau | [784], [785]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1322,4 +1324,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [781]: https://books.ropensci.org/targets/index.html
 [782]: https://github.com/ismayc/thesisdown
 [783]: https://github.com/GoekeLab/bioinformatics-workflows
+[784]: https://rstudio.github.io/plumbertableau/index.html
+[785]: https://www.rstudio.com/blog/dynamic-r-and-python-models-in-tableau-using-plumbertableau/?mkt_tok=NzA5LU5YTi03MDYAAAGBfakapZk1gn7pLVcrp5PdLbDaRVhOkCsB4kBFyLzVFBWXg66fn_AsqZzKzNHX4LBqEIs6wWQZklNnmJd31LiCF40bL26zEvCZC-LSLvd20Q
+[786]: http://www.microbialnet.org/mind_home.html
 Save
