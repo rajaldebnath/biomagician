@@ -21,6 +21,7 @@ Graph Database | StarPepDB | is a Neo4j graph database resulting from an integra
 Knowledgebase | NeXtProt | is an integrative resource providing both data on human protein and the tools to explore these | [557], [558]
 Graph Database | Cayley | is an open-source database for Linked Data. It is inspired by the graph database behind Google's Knowledge Graph (formerly Freebase) | [559], [560]
 Tutorial | Neo4j | Importing CSV Files in Neo4j | [791]
+Tutorial | Neo4j | Getting Started with Graph Embeddings in Neo4j | [792]
 
 ## Databases
 Category          | Name               |                 Description                    | Link              
@@ -82,7 +83,7 @@ Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 
 
-## Bioinformatic
+## Bioinformatics
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
  Bioinformatic Tools | OmicTools       | Collection of many many tools that can be useful for some bioinformatic anlyses | [4]
@@ -340,7 +341,7 @@ Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly 
 Tool | MIND | Microbial Interaction Network Database | [786]
 Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction using ONT and Illumina sequencing | [787]
 
-## Biostatistic
+## Biostatistics
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
  Data-Types | Microbiome Datasets Are Compositional: And This Is Not Optional | Why OTU tables need to be handled more carefully - They are compositional! | [1]
@@ -400,6 +401,7 @@ R package | MicEco | Various functions for analysis for microbial community data
 R package | MaAsLin2 | A comprehensive R package for efficiently determining multivariable association between phenotypes, environments, exposures, covariates and microbial meta’omic features | [730], [731]
 R package | micropml | User-Friendly R Package for Supervised Machine Learning Pipelines | [749], [750], [751]
 R package | shinyML | Compare Supervised Machine Learning Models Using Shiny App | [789]
+R package | UMAP | Uniform Manifold Approximation and Projection for Dimension Reduction | [793], [794]
 
 
 
@@ -1332,4 +1334,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [789]: https://github.com/jeanbertinr/shinyml
 [790]: https://github.com/thebioengineer/camcorder
 [791]: https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf
+[792]: https://towardsdatascience.com/getting-started-with-graph-embeddings-2f06030e97ae
+[793]: https://umap-learn.readthedocs.io/en/latest/
+[794]: https://tonyelhabr.rbind.io/posts/dimensionality-reduction-and-clustering/
 Save
