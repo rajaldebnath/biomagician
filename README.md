@@ -340,6 +340,7 @@ Tool | GMGC-mapper | Command line tool to query the Global Microbial Gene Catalo
 Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly of bacterial sequences | [775], [776], [777], [778]
 Tool | MIND | Microbial Interaction Network Database | [786]
 Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction using ONT and Illumina sequencing | [787]
+Tool | giraffe | variation graph data structures, interchange formats, alignment, genotyping, and variant calling methods | [795], [796]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -1337,4 +1338,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [792]: https://towardsdatascience.com/getting-started-with-graph-embeddings-2f06030e97ae
 [793]: https://umap-learn.readthedocs.io/en/latest/
 [794]: https://tonyelhabr.rbind.io/posts/dimensionality-reduction-and-clustering/
+[795]: https://github.com/vgteam/vg
+[796]: https://www.science.org/doi/10.1126/science.abg8871
 Save
