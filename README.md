@@ -20,9 +20,7 @@ Graph Database | NGLY1 Deficiency Knowledge Graph | NGLY1 Deficiency Knowledge G
 Graph Database | StarPepDB | is a Neo4j graph database resulting from an integration process by which data from a large variety of bioactive peptide databases are cleaned, standardized, and merged so that it can be released into an organized collection | [488], [489]
 Knowledgebase | NeXtProt | is an integrative resource providing both data on human protein and the tools to explore these | [557], [558]
 Graph Database | Cayley | is an open-source database for Linked Data. It is inspired by the graph database behind Google's Knowledge Graph (formerly Freebase) | [559], [560]
-
-
-
+Tutorial | Neo4j | Importing CSV Files in Neo4j | [791]
 
 ## Databases
 Category          | Name               |                 Description                    | Link              
@@ -447,6 +445,7 @@ R package | colorblindr | Simulate colorblindness in production-ready R figures 
 R package | scico | 17 colorblind safe palettes | [770], [771]
 R package | plumbertableau | Integrating Dynamic R and Python Models in Tableau Using plumbertableau | [784], [785]
 R package | Boruta | Feature selection with the Boruta algorithm | [788]
+R package | camcorder | to track and record the ggplots that are created across one or multiple sessions with the eventual goal of creating a gif showing all the plots created sequentially | [790]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1331,4 +1330,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [787]: https://github.com/BeatsonLab-MicrobialGenomics/micropipe
 [788]: https://www.rdocumentation.org/packages/Boruta/versions/7.0.0/topics/Boruta
 [789]: https://github.com/jeanbertinr/shinyml
+[790]: https://github.com/thebioengineer/camcorder
+[791]: https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf
 Save
