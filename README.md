@@ -341,6 +341,7 @@ Tool | MetaGraph | Ultra Scalable Framework for DNA Search, Alignment, Assembly 
 Tool | MIND | Microbial Interaction Network Database | [786]
 Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction using ONT and Illumina sequencing | [787]
 Tool | giraffe | variation graph data structures, interchange formats, alignment, genotyping, and variant calling methods | [795], [796]
+Tool | SquiggleKit | A toolkit for accessing and manipulating nanopore signal data | [798], [799], [800]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -449,6 +450,7 @@ R package | scico | 17 colorblind safe palettes | [770], [771]
 R package | plumbertableau | Integrating Dynamic R and Python Models in Tableau Using plumbertableau | [784], [785]
 R package | Boruta | Feature selection with the Boruta algorithm | [788]
 R package | camcorder | to track and record the ggplots that are created across one or multiple sessions with the eventual goal of creating a gif showing all the plots created sequentially | [790]
+R package | ggiraph | a tool that allows you to create dynamic ggplot graphs | [797]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1340,4 +1342,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [794]: https://tonyelhabr.rbind.io/posts/dimensionality-reduction-and-clustering/
 [795]: https://github.com/vgteam/vg
 [796]: https://www.science.org/doi/10.1126/science.abg8871
+[797]: https://davidgohel.github.io/ggiraph/
+[798]: https://github.com/Psy-Fer/SquiggleKit
+[799]: https://doi.org/10.1093/bioinformatics/btz586
+[800]: https://psy-fer.github.io/SquiggleKitDocs/
 Save
