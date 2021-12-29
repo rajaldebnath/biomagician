@@ -342,6 +342,7 @@ Tool | MIND | Microbial Interaction Network Database | [786]
 Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction using ONT and Illumina sequencing | [787]
 Tool | giraffe | variation graph data structures, interchange formats, alignment, genotyping, and variant calling methods | [795], [796]
 Tool | SquiggleKit | A toolkit for accessing and manipulating nanopore signal data | [798], [799], [800]
+Tool | FlowerPlot | A Python 3.9+ function that makes flower plots for pangenomics | [804]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -538,6 +539,7 @@ App | Pitch | Collaborative presentation software for modern teams | [703]
 Reporting | conflr | an R package to post R Markdown documents to Confluence, a content collaboration tool by Atlassian | [737]
 Tutorial | Galaxy Training | Collection of tutorials developed and maintained by the worldwide Galaxy community | [765]
 R package | thesisdown | package to write thesis in Rmarkdown | [782]
+R package | blogdown | is an R package that makes blogging for R users as straightforward as possible | [801], [802], [803]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1346,4 +1348,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [798]: https://github.com/Psy-Fer/SquiggleKit
 [799]: https://doi.org/10.1093/bioinformatics/btz586
 [800]: https://psy-fer.github.io/SquiggleKitDocs/
+[801]: https://bernhardbieri.ch/blog/quickstart-guide-to-blogdown/
+[802]: https://www.wowchemy.com/docs/getting-started/hugo-github-quickstart/
+[803]: https://app.netlify.com/
+[804]: https://github.com/MrTomRod/flower-plot
 Save
