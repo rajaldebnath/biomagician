@@ -344,6 +344,7 @@ Tool | giraffe | variation graph data structures, interchange formats, alignment
 Tool | SquiggleKit | A toolkit for accessing and manipulating nanopore signal data | [798], [799], [800]
 Tool | FlowerPlot | A Python 3.9+ function that makes flower plots for pangenomics | [804]
 Tool | Poppunk | a tool for clustering genomes | [807]
+Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra or inter species | [810]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -544,6 +545,7 @@ R package | blogdown | is an R package that makes blogging for R users as straig
 Webpage | postsyoumighthavemissed | Search 000's of R & Python articles and packages! | [805]
 Tutorial | shell-how | Write down a command-line to see how it works | [806]
 Webpage | webpage-repository | the website of AllanLab academic research group at Leiden University | [808]
+Tutorial | Machine Learning | Machine Learning for Everyone | [809]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1360,4 +1362,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [806]: https://www.shell.how/
 [807]: https://poppunk.readthedocs.io/en/latest/visualisation.html
 [808]: https://github.com/mpa139/allanlab
+[809]: https://vas3k.com/blog/machine_learning/
+[810]: https://github.com/irycisBioinfo/PATO
 Save
