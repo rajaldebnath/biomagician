@@ -408,6 +408,7 @@ R package | MaAsLin2 | A comprehensive R package for efficiently determining mul
 R package | micropml | User-Friendly R Package for Supervised Machine Learning Pipelines | [749], [750], [751]
 R package | shinyML | Compare Supervised Machine Learning Models Using Shiny App | [789]
 R package | UMAP | Uniform Manifold Approximation and Projection for Dimension Reduction | [793], [794]
+R package | MIMOSA2 | summarizes paired microbiome-metabolome datasets to support mechanistic interpretation and hypothesis generation | [813]
 
 
 
@@ -1367,4 +1368,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [810]: https://github.com/irycisBioinfo/PATO
 [811]: https://github.com/irycisBioinfo/PATO/wiki/Manual
 [812]: https://pangenome.org/
+[813]: https://borenstein-lab.github.io/MIMOSA2shiny/analysis_description.html#
 Save
