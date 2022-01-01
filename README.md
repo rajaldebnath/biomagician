@@ -343,6 +343,7 @@ Pipeline | microPIPE | a pipeline for high-quality bacterial genome construction
 Tool | giraffe | variation graph data structures, interchange formats, alignment, genotyping, and variant calling methods | [795], [796]
 Tool | SquiggleKit | A toolkit for accessing and manipulating nanopore signal data | [798], [799], [800]
 Tool | FlowerPlot | A Python 3.9+ function that makes flower plots for pangenomics | [804]
+Tool | Poppunk | a tool for clustering genomes | [807]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -540,6 +541,9 @@ Reporting | conflr | an R package to post R Markdown documents to Confluence, a 
 Tutorial | Galaxy Training | Collection of tutorials developed and maintained by the worldwide Galaxy community | [765]
 R package | thesisdown | package to write thesis in Rmarkdown | [782]
 R package | blogdown | is an R package that makes blogging for R users as straightforward as possible | [801], [802], [803]
+Webpage | postsyoumighthavemissed | Search 000's of R & Python articles and packages! | [805]
+Tutorial | shell-how | Write down a command-line to see how it works | [806]
+Webpage | webpage-repository | the website of AllanLab academic research group at Leiden University | [808]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1352,4 +1356,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [802]: https://www.wowchemy.com/docs/getting-started/hugo-github-quickstart/
 [803]: https://app.netlify.com/
 [804]: https://github.com/MrTomRod/flower-plot
+[805]: https://postsyoumighthavemissed.com/search/
+[806]: https://www.shell.how/
+[807]: https://poppunk.readthedocs.io/en/latest/visualisation.html
+[808]: https://github.com/mpa139/allanlab
 Save
