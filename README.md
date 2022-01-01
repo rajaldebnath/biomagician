@@ -459,6 +459,7 @@ R package | camcorder | to track and record the ggplots that are created across 
 R package | ggiraph | a tool that allows you to create dynamic ggplot graphs | [797]
 R package | ggsvg |  is an extension to ggplot to use arbitrary SVG as points | [817]
 R package | gtsummary | provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language | [819]
+Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tables with a few clicks | [820]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1380,5 +1381,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [817]: https://github.com/coolbutuseless/ggsvg
 [818]: https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html
 [819]: https://www.danieldsjoberg.com/gtsummary/
+[820]: https://www.datawrapper.de/charts
 
 Save
