@@ -344,7 +344,8 @@ Tool | giraffe | variation graph data structures, interchange formats, alignment
 Tool | SquiggleKit | A toolkit for accessing and manipulating nanopore signal data | [798], [799], [800]
 Tool | FlowerPlot | A Python 3.9+ function that makes flower plots for pangenomics | [804]
 Tool | Poppunk | a tool for clustering genomes | [807]
-Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra or inter species | [810]
+Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra or inter species | [810], [811]
+Tool | PanX | is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes | [812]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -1364,4 +1365,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [808]: https://github.com/mpa139/allanlab
 [809]: https://vas3k.com/blog/machine_learning/
 [810]: https://github.com/irycisBioinfo/PATO
+[811]: https://github.com/irycisBioinfo/PATO/wiki/Manual
+[812]: https://pangenome.org/
 Save
