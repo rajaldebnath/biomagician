@@ -549,6 +549,7 @@ Webpage | postsyoumighthavemissed | Search 000's of R & Python articles and pack
 Tutorial | shell-how | Write down a command-line to see how it works | [806]
 Webpage | webpage-repository | the website of AllanLab academic research group at Leiden University | [808]
 Tutorial | Machine Learning | Machine Learning for Everyone | [809]
+R package | RPushbullet | a package to send messages to your devices from R | [815]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1371,4 +1372,5 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [812]: https://pangenome.org/
 [813]: https://borenstein-lab.github.io/MIMOSA2shiny/analysis_description.html#
 [814]: http://3mcor.cn/uploading.html
+[815]: https://data-marcoplebani-com.cdn.ampproject.org/c/s/data.marcoplebani.com/send-messages-to-your-devices-from-r-with-pushbullet/?amp=1
 Save
