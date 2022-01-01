@@ -457,6 +457,8 @@ R package | plumbertableau | Integrating Dynamic R and Python Models in Tableau 
 R package | Boruta | Feature selection with the Boruta algorithm | [788]
 R package | camcorder | to track and record the ggplots that are created across one or multiple sessions with the eventual goal of creating a gif showing all the plots created sequentially | [790]
 R package | ggiraph | a tool that allows you to create dynamic ggplot graphs | [797]
+R package | ggsvg |  is an extension to ggplot to use arbitrary SVG as points | [817]
+R package | gtsummary | provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language | [819]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -549,7 +551,8 @@ Webpage | postsyoumighthavemissed | Search 000's of R & Python articles and pack
 Tutorial | shell-how | Write down a command-line to see how it works | [806]
 Webpage | webpage-repository | the website of AllanLab academic research group at Leiden University | [808]
 Tutorial | Machine Learning | Machine Learning for Everyone | [809]
-R package | RPushbullet | a package to send messages to your devices from R | [815]
+R package | RPushbullet | a package to send messages to your devices from R | [815], [816]
+R package | portfoliodown | makes it painless for data scientists to create a polished professional website so they can host their project portfolios, get great job interviews, and launch their data science careers | [818]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1373,4 +1376,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [813]: https://borenstein-lab.github.io/MIMOSA2shiny/analysis_description.html#
 [814]: http://3mcor.cn/uploading.html
 [815]: https://data-marcoplebani-com.cdn.ampproject.org/c/s/data.marcoplebani.com/send-messages-to-your-devices-from-r-with-pushbullet/?amp=1
+[816]: https://github.com/eddelbuettel/rpushbullet?fbclid=IwAR1u9IMUyycw8j2TH5N-T5mEGpfvWisoc43_u7sxHRvTUdwKp1umHVjMEtE
+[817]: https://github.com/coolbutuseless/ggsvg
+[818]: https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html
+[819]: https://www.danieldsjoberg.com/gtsummary/
+
 Save
