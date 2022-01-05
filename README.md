@@ -81,6 +81,7 @@ LIMS | openBIS | open source Laboratory Notebok & Inventory manager | [707]
 Database | probeBase | probeBase is a curated database of rRNA-targeted oligonucleotide probes and primers | [724]
 Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
+Webapp | MAP | The Microbe Atlas Project aims to shed new light on the ecology of these elusive microbes by leveraging the large amounts of sequenced microbial communities | [821]
 
 
 ## Bioinformatics
@@ -1382,5 +1383,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [818]: https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html
 [819]: https://www.danieldsjoberg.com/gtsummary/
 [820]: https://www.datawrapper.de/charts
+[821]: https://microbeatlas.org/
 
 Save
