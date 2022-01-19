@@ -461,6 +461,7 @@ R package | ggiraph | a tool that allows you to create dynamic ggplot graphs | [
 R package | ggsvg |  is an extension to ggplot to use arbitrary SVG as points | [817]
 R package | gtsummary | provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language | [819]
 Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tables with a few clicks | [820]
+R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax | [822] 
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1384,5 +1385,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [819]: https://www.danieldsjoberg.com/gtsummary/
 [820]: https://www.datawrapper.de/charts
 [821]: https://microbeatlas.org/
+[822]: https://github.com/ianmoran11/mmtable2
 
 Save
