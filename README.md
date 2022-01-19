@@ -462,6 +462,7 @@ R package | ggsvg |  is an extension to ggplot to use arbitrary SVG as points | 
 R package | gtsummary | provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language | [819]
 Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tables with a few clicks | [820]
 R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax | [822] 
+R package | circlize | circular visualization in R | [823], [824]
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1386,5 +1387,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [820]: https://www.datawrapper.de/charts
 [821]: https://microbeatlas.org/
 [822]: https://github.com/ianmoran11/mmtable2
+[823]: https://jokergoo.github.io/circlize_book/book/introduction.html#a-qiuck-glance
+[824]: https://github.com/jokergoo/circlize
 
 Save
