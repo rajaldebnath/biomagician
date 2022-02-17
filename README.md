@@ -1027,7 +1027,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [461]: https://doi.org/10.1038/s41596-018-0098-2
 [462]: https://opencobra.github.io/cobratoolbox/stable/installation.html#system-requirements
 [463]: https://github.com/AnantharamanLab/METABOLIC
-[464]: https://www.biorxiv.org/content/10.1101/761643v1
+[464]: https://doi.org/10.1186/s40168-021-01213-8
 [465]: https://github.com/bioinfo-ut/PhenotypeSeeker
 [466]: https://doi.org/10.1371/journal.pcbi.1006434
 [467]: https://opencobra.github.io/
