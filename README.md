@@ -411,6 +411,7 @@ R package | micropml | User-Friendly R Package for Supervised Machine Learning P
 R package | shinyML | Compare Supervised Machine Learning Models Using Shiny App | [789]
 R package | UMAP | Uniform Manifold Approximation and Projection for Dimension Reduction | [793], [794]
 R package | MIMOSA2 | summarizes paired microbiome-metabolome datasets to support mechanistic interpretation and hypothesis generation | [813]
+R package | microViz | for analysis and visualization of microbiome sequencing data [825], [826] 
 
 
 
@@ -1388,5 +1389,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [822]: https://github.com/ianmoran11/mmtable2
 [823]: https://jokergoo.github.io/circlize_book/book/introduction.html#a-qiuck-glance
 [824]: https://github.com/jokergoo/circlize
+[825]: https://david-barnett.github.io/microViz/
+[826]: https://doi.org/10.21105/joss.03201
 
 Save
