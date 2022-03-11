@@ -348,6 +348,7 @@ Tool | Poppunk | a tool for clustering genomes | [807]
 Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra or inter species | [810], [811]
 Tool | PanX | is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes | [812]
 Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
+Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -1394,6 +1395,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [826]: https://doi.org/10.21105/joss.03201
 [827]: https://yiluheihei.github.io/microbiomeMarker/index.html
 [828]: https://github.com/yiluheihei/microbiomeMarker
-[829]: 
+[829]: https://github.com/MigleSur/GenAPI
+[830]: https://doi.org/10.1186/s12859-020-03657-5
 
 Save
