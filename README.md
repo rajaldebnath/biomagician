@@ -349,6 +349,7 @@ Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra 
 Tool | PanX | is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes | [812]
 Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
 Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
+R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -1397,5 +1398,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [828]: https://github.com/yiluheihei/microbiomeMarker
 [829]: https://github.com/MigleSur/GenAPI
 [830]: https://doi.org/10.1186/s12859-020-03657-5
+[831]: https://madsalbertsen.github.io/ampvis2/index.html
+[832]: https://doi.org/10.1101/299537
 
 Save
