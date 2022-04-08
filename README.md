@@ -349,7 +349,8 @@ Tool | PATO | a R package designed to analyze pangenomes (set of genomes) intra 
 Tool | PanX | is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes | [812]
 Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
 Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
-R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
+Tool | bammix | Summarise nucleotide counts at a set of positions in a BAM file to search for mixtures | [835]
+
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -417,7 +418,6 @@ R package | microViz | for analysis and visualization of microbiome sequencing d
 R package | 
 
 
-
 ## Visualization
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -467,6 +467,8 @@ R package | gtsummary | provides an elegant and flexible way to create publicati
 Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tables with a few clicks | [820]
 R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax | [822] 
 Webapp | Lucidchart  | is the intelligent diagramming application that brings teams together to make better decisions and build the future | [833] 
+R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
+
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1403,5 +1405,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [832]: https://doi.org/10.1101/299537
 [833]: https://www.lucidchart.com/pages/
 [834]: https://github.com/iferres/pagoo_publication_scripts
+[835]: https://github.com/chrisruis/bammix
 
 Save
