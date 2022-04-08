@@ -466,6 +466,7 @@ R package | ggsvg |  is an extension to ggplot to use arbitrary SVG as points | 
 R package | gtsummary | provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language | [819]
 Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tables with a few clicks | [820]
 R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax | [822] 
+Webapp | Lucidchart  | is the intelligent diagramming application that brings teams together to make better decisions and build the future | [833] 
 
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
@@ -1400,5 +1401,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [830]: https://doi.org/10.1186/s12859-020-03657-5
 [831]: https://madsalbertsen.github.io/ampvis2/index.html
 [832]: https://doi.org/10.1101/299537
+[833]: https://www.lucidchart.com/pages/
 
 Save
