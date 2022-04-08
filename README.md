@@ -350,6 +350,7 @@ Tool | PanX | is a software package for comprehensive analysis, interactive visu
 Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
 Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
 Tool | bammix | Summarise nucleotide counts at a set of positions in a BAM file to search for mixtures | [835]
+Tool | Wolka | (Web of Life Toolkit App), is a bioinformatics package for shotgun metagenome data analysis | [836], [837]
 
 
 ## Biostatistics
@@ -1406,5 +1407,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [833]: https://www.lucidchart.com/pages/
 [834]: https://github.com/iferres/pagoo_publication_scripts
 [835]: https://github.com/chrisruis/bammix
+[836]: https://github.com/qiyunzhu/woltka
+[837]: https://doi.org/10.1101/2021.04.04.438427
 
 Save
