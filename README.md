@@ -351,6 +351,9 @@ Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
 Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
 Tool | bammix | Summarise nucleotide counts at a set of positions in a BAM file to search for mixtures | [835]
 Tool | Wolka | (Web of Life Toolkit App), is a bioinformatics package for shotgun metagenome data analysis | [836], [837]
+Tool | ECTyper | is a standalone versatile serotyping module for Escherichia coli | 
+Tool | Serotypefinder | is a serotyping module for Escherichia coli |
+Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | 
 
 
 ## Biostatistics
@@ -1409,5 +1412,11 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [835]: https://github.com/chrisruis/bammix
 [836]: https://github.com/qiyunzhu/woltka
 [837]: https://doi.org/10.1101/2021.04.04.438427
+[838]: https://github.com/phac-nml/ecoli_serotyping
+[839]: https://dx.doi.org/10.1099%2Fmgen.0.000728
+[840]: https://bitbucket.org/genomicepidemiology/serotypefinder/src/master/
+[841]: https://doi.org/10.1128/JCM.00008-15
+[842]: https://github.com/katholt/srst2#using-the-ecoh-database-for-serotyping-e-coli-with-srst2
+[843]: https://doi.org/10.1186/s13073-014-0090-6
 
 Save
