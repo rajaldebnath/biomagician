@@ -351,9 +351,10 @@ Tool | 3mcor | Metabolome-Microbiome-Metadata-Correlation Analysis | [814]
 Tool | GenAPI | a program for gene presence absence table generation for series of closely related bacterial genomes from annotated GFF files | [829], [830]
 Tool | bammix | Summarise nucleotide counts at a set of positions in a BAM file to search for mixtures | [835]
 Tool | Wolka | (Web of Life Toolkit App), is a bioinformatics package for shotgun metagenome data analysis | [836], [837]
-Tool | ECTyper | is a standalone versatile serotyping module for Escherichia coli | 
-Tool | Serotypefinder | is a serotyping module for Escherichia coli |
-Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | 
+Tool | ECTyper | is a standalone versatile serotyping module for Escherichia coli | [838], [839]
+Tool | Serotypefinder | is a serotyping module for Escherichia coli | [840], [841]
+Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | [842], [843]
+Tool | KEMET | a python tool for KEGG Module evaluation and microbial genome annotation expansion (Metabolic) | [844], [845]
 
 
 ## Biostatistics
@@ -1418,5 +1419,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [841]: https://doi.org/10.1128/JCM.00008-15
 [842]: https://github.com/katholt/srst2#using-the-ecoh-database-for-serotyping-e-coli-with-srst2
 [843]: https://doi.org/10.1186/s13073-014-0090-6
+[844]: https://github.com/Matteopaluh/KEMET 
+[845]: https://doi.org/10.1016/j.csbj.2022.03.015
 
 Save
