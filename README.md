@@ -82,6 +82,7 @@ Database | probeBase | probeBase is a curated database of rRNA-targeted oligonuc
 Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 Webapp | MAP | The Microbe Atlas Project aims to shed new light on the ecology of these elusive microbes by leveraging the large amounts of sequenced microbial communities | [821]
+Database | proGenomes2 | an improved database for accurate and consistent habitat, taxonomic and functional annotations of prokaryotic genomes | [849]
 
 
 ## Bioinformatics
@@ -357,6 +358,7 @@ Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | [842], [843]
 Tool | KEMET | a python tool for KEGG Module evaluation and microbial genome annotation expansion (Metabolic) | [844], [845]
 Tool | SIAMCAT | Statistical Inference of Associations between Microbial Communities And host phenoTypes | [846], [847]
 Collection | EMBL | Microbiome Analysis Tools Developed at EMBL | [848]
+
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
