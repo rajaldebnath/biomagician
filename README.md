@@ -355,7 +355,8 @@ Tool | ECTyper | is a standalone versatile serotyping module for Escherichia col
 Tool | Serotypefinder | is a serotyping module for Escherichia coli | [840], [841]
 Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | [842], [843]
 Tool | KEMET | a python tool for KEGG Module evaluation and microbial genome annotation expansion (Metabolic) | [844], [845]
-
+Tool | SIAMCAT | Statistical Inference of Associations between Microbial Communities And host phenoTypes | [846], [847]
+Collection | EMBL | Microbiome Analysis Tools Developed at EMBL | [848]
 
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
@@ -1421,5 +1422,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [843]: https://doi.org/10.1186/s13073-014-0090-6
 [844]: https://github.com/Matteopaluh/KEMET 
 [845]: https://doi.org/10.1016/j.csbj.2022.03.015
+[846]: https://siamcat.embl.de/articles/SIAMCAT_vignette.html
+[847]: https://doi.org/10.1186/s13059-021-02306-1
+[848]: https://microbiome-tools.embl.de/
 
 Save
