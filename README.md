@@ -358,6 +358,7 @@ Tool | SRST2 | Short Read Sequence Typing for Bacterial Pathogens | [842], [843]
 Tool | KEMET | a python tool for KEGG Module evaluation and microbial genome annotation expansion (Metabolic) | [844], [845]
 Tool | SIAMCAT | Statistical Inference of Associations between Microbial Communities And host phenoTypes | [846], [847]
 Collection | EMBL | Microbiome Analysis Tools Developed at EMBL | [848]
+Tool | BacDist | Snakemake pipeline for bacterial SNP distance, recombination and phylogenetic analysis | [849]
 
 
 ## Biostatistics
@@ -1427,5 +1428,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [846]: https://siamcat.embl.de/articles/SIAMCAT_vignette.html
 [847]: https://doi.org/10.1186/s13059-021-02306-1
 [848]: https://microbiome-tools.embl.de/
+[849]: https://github.com/MigleSur/BacDist
 
 Save
