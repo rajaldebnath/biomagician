@@ -82,7 +82,7 @@ Database | probeBase | probeBase is a curated database of rRNA-targeted oligonuc
 Database | bugsigdb | A Comprehensive Database of Published Microbial Signatures | [766], [767]
 Webapp | GMGC | Global Microbial Gene Catalog | [772], [773]
 Webapp | MAP | The Microbe Atlas Project aims to shed new light on the ecology of these elusive microbes by leveraging the large amounts of sequenced microbial communities | [821]
-Database | proGenomes2 | an improved database for accurate and consistent habitat, taxonomic and functional annotations of prokaryotic genomes | [849]
+Database | proGenomes2 | an improved database for accurate and consistent habitat, taxonomic and functional annotations of prokaryotic genomes | [851]
 
 
 ## Bioinformatics
@@ -425,7 +425,7 @@ R package | shinyML | Compare Supervised Machine Learning Models Using Shiny App
 R package | UMAP | Uniform Manifold Approximation and Projection for Dimension Reduction | [793], [794]
 R package | MIMOSA2 | summarizes paired microbiome-metabolome datasets to support mechanistic interpretation and hypothesis generation | [813]
 R package | microViz | for analysis and visualization of microbiome sequencing data [825], [826] 
-R package | 
+R package | mia | implements tools for microbiome analysis based on the SummarizedExperiment | [852]
 
 
 ## Visualization
@@ -1431,5 +1431,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [848]: https://microbiome-tools.embl.de/
 [849]: https://github.com/MigleSur/BacDist
 [850]: https://github.com/MigleSur/Pactyper
+[851]: https://progenomes.embl.de/
+[852]: https://microbiome.github.io/mia/articles/
 
 Save
