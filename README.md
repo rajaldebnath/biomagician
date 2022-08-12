@@ -426,6 +426,7 @@ R package | UMAP | Uniform Manifold Approximation and Projection for Dimension R
 R package | MIMOSA2 | summarizes paired microbiome-metabolome datasets to support mechanistic interpretation and hypothesis generation | [813]
 R package | microViz | for analysis and visualization of microbiome sequencing data [825], [826] 
 R package | mia | implements tools for microbiome analysis based on the SummarizedExperiment | [852]
+R package | CARlasso | Conditional Auto-Regressive LASSO in R | [853], [854]
 
 
 ## Visualization
@@ -463,7 +464,7 @@ R package | ggseqlogo | a versatile R package for drawing sequence logos | [695]
 R Markdown | webpage | Creating websites in R | [716]
 App | TreeViewer | Flexible, modular software to visualise and manipulate phylogenetic trees | [723]
 Software | Graphia | a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets | [732] 
-R package | ComplexHeatmap | provides a highly flexible way to arrange multiple heatmaps and supports self-defined annotation graphics | [744]
+R package | ComplexHeatmap | provides a highly flexible way to arrange multiple heatmaps and supports self-defined annotation graphics | [744], [856]
 R package | circlize |  circular visualization in R and circular heatmaps | [745], [746], [823], [824]
 R package | ggsci | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 | [768]
 R package | colorblindr | Simulate colorblindness in production-ready R figures | [769]
@@ -478,6 +479,8 @@ Webapp | Datawrapper | lets you show your data as beautiful charts, maps or tabl
 R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax | [822] 
 Webapp | Lucidchart  | is the intelligent diagramming application that brings teams together to make better decisions and build the future | [833] 
 R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
+Webpage | From Data to Viz | is a classification of chart types based on input data format | [855]
+
 
 
 ## Pipeline Managers
@@ -1433,5 +1436,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [850]: https://github.com/MigleSur/Pactyper
 [851]: https://progenomes.embl.de/
 [852]: https://microbiome.github.io/mia/articles/
+[853]: https://github.com/YunyiShen/CAR-LASSO
+[854]: https://doi.org/10.48550/arXiv.2012.08397
+[855]: https://www.data-to-viz.com/
+[856]: https://doi.org/10.1002/imt2.43
 
 Save
