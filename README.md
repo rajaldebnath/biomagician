@@ -360,6 +360,7 @@ Tool | SIAMCAT | Statistical Inference of Associations between Microbial Communi
 Collection | EMBL | Microbiome Analysis Tools Developed at EMBL | [848]
 Tool | BacDist | Snakemake pipeline for bacterial SNP distance, recombination and phylogenetic analysis | [849]
 Tool | PacTyper | Snakemake pipeline for continuous clone type prediction for WGS sequenced bacterial isolates based on their core genome | [850]
+Pipeline | CulebrONT | a streamlined long reads multi-assembler pipeline for prokaryotic and eukaryotic genomes | [857], [858]
 
 
 ## Biostatistics
@@ -1440,5 +1441,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [854]: https://doi.org/10.48550/arXiv.2012.08397
 [855]: https://www.data-to-viz.com/
 [856]: https://doi.org/10.1002/imt2.43
+[857]: https://www.biorxiv.org/content/10.1101/2021.07.19.452922v5.full.pdf
+[858]: https://culebront-pipeline.readthedocs.io/en/latest/
 
 Save
