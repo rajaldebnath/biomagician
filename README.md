@@ -5,6 +5,7 @@ Collection of papers and tools that are helpful for bioinformatic &amp; biostati
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
 Training collection | SIB | A curated list of bioinformatics training material | [861]
+Tutorial | Python Tutorial | Python Tutorial | [862]
 
 
 ## Containers
@@ -1453,5 +1454,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [859]: https://doi.org/10.1186/s13059-021-02295-1
 [860]: https://github.com/jotech/gapseq
 [861]: https://github.com/sib-swiss/training-collection
+[862]: https://www.w3schools.com/python/default.asp
 
 Save
