@@ -95,11 +95,11 @@ Database | proGenomes2 | an improved database for accurate and consistent habita
 ## Bioinformatics
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
- Bioinformatic Tools | OmicTools       | Collection of many many tools that can be useful for some bioinformatic anlyses | [4]
+Bioinformatic Tools | OmicTools       | Collection of many many tools that can be useful for some bioinformatic anlyses | [4]
  16S pipeline | Gloor Lab dada2 pipeline | This pipeline will take your paired fastq reads (from Illumina MiSeq or HiSeq) and generate an OTU counts table with an approximate taxonomy assignment. The reads have to have been generated using Gloor Lab Illumina SOP so that the reads are paired, overlapping, and contain the barcode and primer information (have not been demultiplexed or had primers or barcodes removed). | [8]
- Metagenomics | SingleM | SingleM is a tool to find the abundances of discrete operational taxonomic units (OTUs) directly from shotgun metagenome data, without heavy reliance on reference sequence databases. It is able to differentiate closely related species even if those species are from lineages new to science. | [13]
- Gene annotation | Pulpy | An automated, reproducible and scalable prediction of Polysaccharide Utilisation Loci (PUL) in 5414 public Bacteroidetes genomes. The predictions are fully open and can be accessed and used by any researcher, commercial or otherwise. | [17], [18], [19]; preprint [20]
- 16S pipeline | mare | The mare R package is an easy-to-use pipeline for microbiota analysis based on 16S-amplicon reads. It takes the raw reads, creates taxonomic tables, visualises the results, and finally identifies organisms significantly associated with variables of interest. For read processing, OTU clustering, and taxonomic annotation | [32]
+Metagenomics | SingleM | SingleM is a tool to find the abundances of discrete operational taxonomic units (OTUs) directly from shotgun metagenome data, without heavy reliance on reference sequence databases. It is able to differentiate closely related species even if those species are from lineages new to science. | [13]
+Gene annotation | Pulpy | An automated, reproducible and scalable prediction of Polysaccharide Utilisation Loci (PUL) in 5414 public Bacteroidetes genomes. The predictions are fully open and can be accessed and used by any researcher, commercial or otherwise. | [17], [18], [19]; preprint [20]
+16S pipeline | mare | The mare R package is an easy-to-use pipeline for microbiota analysis based on 16S-amplicon reads. It takes the raw reads, creates taxonomic tables, visualises the results, and finally identifies organisms significantly associated with variables of interest. For read processing, OTU clustering, and taxonomic annotation | [32]
 WGS assembly pipeline | pgap | The official bacterial whole genome assembly pipeline of NCBI | [33], [674]
 r-package|picante|Phylocom integration, community analyses, null-models, traits and evolution in R|[39]
 tree-modeling|iq-tree| Fast and effective stochastic algorithm to reconstruct phylogenetic trees by maximum likelihood. IQ-TREE compares favorably to RAxML and PhyML in terms of likelihood while requiring similar amount of computing time |[45][46]
@@ -369,6 +369,7 @@ Tool | BacDist | Snakemake pipeline for bacterial SNP distance, recombination an
 Tool | PacTyper | Snakemake pipeline for continuous clone type prediction for WGS sequenced bacterial isolates based on their core genome | [850]
 Pipeline | CulebrONT | a streamlined long reads multi-assembler pipeline for prokaryotic and eukaryotic genomes | [857], [858]
 Tool | gapseq | Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks | [859], [860]
+Tool | MicrobiomeAnalysis | This package provides common methods for microbiome analysis | [863], also see [852]
 
 
 ## Biostatistics
@@ -1455,5 +1456,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [860]: https://github.com/jotech/gapseq
 [861]: https://github.com/sib-swiss/training-collection
 [862]: https://www.w3schools.com/python/default.asp
+[863]: https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl
 
 Save
