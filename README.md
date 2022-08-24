@@ -370,6 +370,7 @@ Tool | PacTyper | Snakemake pipeline for continuous clone type prediction for WG
 Pipeline | CulebrONT | a streamlined long reads multi-assembler pipeline for prokaryotic and eukaryotic genomes | [857], [858]
 Tool | gapseq | Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks | [859], [860]
 Tool | MicrobiomeAnalysis | This package provides common methods for microbiome analysis | [863], also see [852]
+Tool | MiMiC  | proposes minimal microbial consortia from the functional potential of a given metagenomic sample | [864], [865]
 
 
 ## Biostatistics
@@ -1457,5 +1458,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [861]: https://github.com/sib-swiss/training-collection
 [862]: https://www.w3schools.com/python/default.asp
 [863]: https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl
+[864]: https://github.com/ClavelLab/MiMiC
+[865]: https://doi.org/10.1111/1751-7915.13845
 
 Save
