@@ -372,6 +372,7 @@ Tool | gapseq | Informed prediction and analysis of bacterial metabolic pathways
 Tool | MicrobiomeAnalysis | This package provides common methods for microbiome analysis | [863], also see [852]
 Tool | MiMiC  | proposes minimal microbial consortia from the functional potential of a given metagenomic sample | [864], [865]
 Tool | PIRATE | identifies and classifies orthologous gene families in bacterial pangenomes over a wide range of sequence similarity thresholds | [867], [868]
+Tool | bacterial_strain_definition | Contains the code and workflow for the bacterial strain definition paper with Kostas Kostantinidis | [869], [870]
 
 
 ## Biostatistics
@@ -1465,5 +1466,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [866]: https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf
 [867]: https://github.com/SionBayliss/PIRATE
 [868]: https://doi.org/10.1093/gigascience/giz119
+[869]: https://github.com/rotheconrad/bacterial_strain_definition
+[870]: https://doi.org/10.1101/2022.06.27.497766
 
 Save
