@@ -375,6 +375,7 @@ Tool | PIRATE | identifies and classifies orthologous gene families in bacterial
 Tool | bacterial_strain_definition | Contains the code and workflow for the bacterial strain definition paper with Kostas Kostantinidis | [869], [870]
 
 
+
 ## Biostatistics
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -440,6 +441,7 @@ R package | MIMOSA2 | summarizes paired microbiome-metabolome datasets to suppor
 R package | microViz | for analysis and visualization of microbiome sequencing data [825], [826] 
 R package | mia | implements tools for microbiome analysis based on the SummarizedExperiment | [852]
 R package | CARlasso | Conditional Auto-Regressive LASSO in R | [853], [854]
+R package | microPopGut |  R package for simulating microbial populations in the human colon | [871]
 
 
 ## Visualization
@@ -1468,5 +1470,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [868]: https://doi.org/10.1093/gigascience/giz119
 [869]: https://github.com/rotheconrad/bacterial_strain_definition
 [870]: https://doi.org/10.1101/2022.06.27.497766
+[871]: https://github.com/HelenKettle/microPopGut
 
 Save
