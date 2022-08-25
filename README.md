@@ -491,6 +491,7 @@ R package | mmtable2 | Create and combine tables with a ggplot2/patchwork syntax
 Webapp | Lucidchart  | is the intelligent diagramming application that brings teams together to make better decisions and build the future | [833] 
 R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
 Webpage | From Data to Viz | is a classification of chart types based on input data format | [855]
+Cheat Sheet | Graphics Principles | Cheat Sheet for correct graphics visualization | [867]
 
 
 
@@ -1460,5 +1461,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [863]: https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl
 [864]: https://github.com/ClavelLab/MiMiC
 [865]: https://doi.org/10.1111/1751-7915.13845
+[866]: https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf
 
 Save
