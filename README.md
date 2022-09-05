@@ -496,6 +496,8 @@ Webapp | Lucidchart  | is the intelligent diagramming application that brings te
 R Package | ampvis2 | an R-package to conveniently visualise and analyse 16S rRNA amplicon data in different ways from phyloseq data | [831], [832]
 Webpage | From Data to Viz | is a classification of chart types based on input data format | [855]
 Cheat Sheet | Graphics Principles | Cheat Sheet for correct graphics visualization | [867]
+R Package | GenoVi | generates circular genome representations for complete or draft bacterial and archaeal genomes | [872], [873]
+R Package | ggcoverage | Visualize and annotate genome coverage with ggplot2 | [874], [875]
 
 
 
@@ -1471,5 +1473,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [869]: https://github.com/rotheconrad/bacterial_strain_definition
 [870]: https://doi.org/10.1101/2022.06.27.497766
 [871]: https://github.com/HelenKettle/microPopGut
+[872]: https://github.com/robotoD/GenoVi/wiki/User-guide#tut1
+[873]: https://github.com/robotoD/GenoVi
+[874]: https://www.biorxiv.org/content/10.1101/2022.09.01.503744v1
+[875]: https://github.com/showteeth/ggcoverage/
 
 Save
