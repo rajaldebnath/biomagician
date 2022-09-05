@@ -373,6 +373,7 @@ Tool | MicrobiomeAnalysis | This package provides common methods for microbiome 
 Tool | MiMiC  | proposes minimal microbial consortia from the functional potential of a given metagenomic sample | [864], [865]
 Tool | PIRATE | identifies and classifies orthologous gene families in bacterial pangenomes over a wide range of sequence similarity thresholds | [867], [868]
 Tool | bacterial_strain_definition | Contains the code and workflow for the bacterial strain definition paper with Kostas Kostantinidis | [869], [870]
+Tool | CheckM2 | Rapid assessment of genome bin quality using machine learning | [876]
 
 
 
@@ -498,6 +499,7 @@ Webpage | From Data to Viz | is a classification of chart types based on input d
 Cheat Sheet | Graphics Principles | Cheat Sheet for correct graphics visualization | [867]
 R Package | GenoVi | generates circular genome representations for complete or draft bacterial and archaeal genomes | [872], [873]
 R Package | ggcoverage | Visualize and annotate genome coverage with ggplot2 | [874], [875]
+R package | ggside | to enable users to add metadata to their ggplots with ease | [877]
 
 
 
@@ -1477,5 +1479,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [873]: https://github.com/robotoD/GenoVi
 [874]: https://www.biorxiv.org/content/10.1101/2022.09.01.503744v1
 [875]: https://github.com/showteeth/ggcoverage/
+[876]: https://github.com/chklovski/CheckM2 
+[877]: https://cran.r-project.org/web/packages/ggside/vignettes/ggside_basic_usage.html
 
 Save
