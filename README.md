@@ -255,7 +255,7 @@ Tool | Kaiju | Metagenomic read classification based on Amino acid sequences. Su
 Tool | mOTU2 | The mOTUs profiler is a computational tool that estimates relative abundance of known and currently unknown microbial community members using metagenomic shotgun sequencing data. | [513], [514]
 Tool | fetchMG |  it extracts the 40 MGs from genomes and metagenomes in an easy and accurate manner. | [515]
 Tool | Metage2Metabo | is a Python3 (Python >= 3.6) tool to perform graph-based metabolic analysis starting from annotated genomes (reference genomes or metagenome-assembled genomes). It uses Pathway Tools in a automatic and parallel way to reconstruct metabolic networks for a large number of genomes | [518], [519]
-R package | AMR | simplify the analysis and prediction of Antimicrobial Resistance (AMR) | [520], [521]
+R package | AMR | simplify the analysis and prediction of Antimicrobial Resistance (AMR) | [520], [521], [878]
 Tool | GRASE | Genome Relative Abundance to Sequencing Effort (GRASE) | [522]
 Tool | FMAP | Functional Mapping and Analysis Pipeline for metagenomics and metatranscriptomics studies | [524], [525], [526]
 Tool | ResPipe | A nextflow-pipeline for interrogating metagenomes for Antimicrobial Resistance Genes (CARD-based), Insertion Sequences and Enterobactericeae Plasmids | [527], [528]
@@ -1481,5 +1481,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [875]: https://github.com/showteeth/ggcoverage/
 [876]: https://github.com/chklovski/CheckM2 
 [877]: https://cran.r-project.org/web/packages/ggside/vignettes/ggside_basic_usage.html
+[878]: https://doi.org/10.18637/jss.v104.i03
 
 Save
