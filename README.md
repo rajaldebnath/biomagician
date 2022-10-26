@@ -374,6 +374,10 @@ Tool | MiMiC  | proposes minimal microbial consortia from the functional potenti
 Tool | PIRATE | identifies and classifies orthologous gene families in bacterial pangenomes over a wide range of sequence similarity thresholds | [867], [868]
 Tool | bacterial_strain_definition | Contains the code and workflow for the bacterial strain definition paper with Kostas Kostantinidis | [869], [870]
 Tool | CheckM2 | Rapid assessment of genome bin quality using machine learning | [876]
+Tool | Gubbins | Genealogies Unbiased By recomBinations In Nucleotide Sequences | [879], [880]
+Tool | SKA | a toolkit for prokaryotic DNA sequence analysis (phylogeny) using split kmers | [881], [882]
+Tool | Mashtree | a rapid comparison of whole genome sequence files | [883], [884]
+Pipeline | mGEMS | Bacterial sequencing data binning on strain-level based on probabilistic taxonomic classification | [885], [886]
 
 
 
@@ -1482,5 +1486,13 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [876]: https://github.com/chklovski/CheckM2 
 [877]: https://cran.r-project.org/web/packages/ggside/vignettes/ggside_basic_usage.html
 [878]: https://doi.org/10.18637/jss.v104.i03
+[879]: https://github.com/nickjcroucher/gubbins
+[880]: https://doi.org/10.1093/nar/gku1196
+[881]: https://github.com/simonrharris/SKA
+[882]: https://doi.org/10.1101/453142
+[883]: https://github.com/lskatz/mashtree
+[884]: https://doi.org/10.21105%2Fjoss.01762
+[885]: https://github.com/PROBIC/mGEMS
+[886]: https://doi.org/10.1099/mgen.0.000691
 
 Save
