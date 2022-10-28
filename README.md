@@ -233,7 +233,7 @@ Tool | biomartr | Download genomes from NCBI or other databases by specifying sp
 Tool | Starmr| Tool in bioconda to scan for through plasmidfinder, Resfinder, pointfinder and then produce nice summary files with the results | [430]
 Tool | TRF | Tandem Repeat Finder and Tandem Repeats Database (TRDB)| [432], [433]
 Tool | MIST | a tool for rapid in silico generation of molecular data from bacterial genome sequences | [434], [435]
-Tool | mummer | Visualization of correct aligment between genomes | [436]
+Tool | mummer | Visualization of correct aligment between genomes | [436], [887], [888], [889]
 Tool | Dot2dot | accurate whole-genome tandem repeats discovery | [437], [438]
 Tool | miCompletete | An "easy" to use tool to quickly assess the completeness and quality of new genome assemblies, kind of like checkM but with some tweaks | [439]
 Tool, Database | ARO | Antibiotic resistance ontology database and webserver to quickly get phenotype information based on genes IDs | [440], [441]
@@ -504,6 +504,7 @@ Cheat Sheet | Graphics Principles | Cheat Sheet for correct graphics visualizati
 R Package | GenoVi | generates circular genome representations for complete or draft bacterial and archaeal genomes | [872], [873]
 R Package | ggcoverage | Visualize and annotate genome coverage with ggplot2 | [874], [875]
 R package | ggside | to enable users to add metadata to their ggplots with ease | [877]
+R package | dotplotly | Create an interactive or static dot plot from mummer output OR PAF format | [890]
 
 
 
@@ -1494,5 +1495,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [884]: https://doi.org/10.21105%2Fjoss.01762
 [885]: https://github.com/PROBIC/mGEMS
 [886]: https://doi.org/10.1099/mgen.0.000691
+[887]: https://github.com/mummer4/mummer
+[888]: https://doi.org/10.1371/journal.pcbi.1005944
+[889]: https://tom-poorten.shinyapps.io/dotplotly_shiny/
+[890]: 
 
 Save
