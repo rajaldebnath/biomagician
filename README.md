@@ -380,6 +380,7 @@ Pipeline | mGEMS | Bacterial sequencing data binning on strain-level based on pr
 Tool | D-GENIES | Dot plot large Genomes in an Interactive, Efficient and Simple way | [893], [894], [895]
 Tool | nanotimeparse | parses an Oxford Nanopore fastq file on read sequencing start times found in the fastq headers | [897]
 Tool | ClonalFrameML | package that performs efficient inference of recombination in bacterial genomes | [899], [900]
+Tool | minidot | Quickly produce pretty dotplots from minimap mappings using R/ggplot2 | [903]
 
 
 
@@ -507,6 +508,7 @@ R Package | GenoVi | generates circular genome representations for complete or d
 R Package | ggcoverage | Visualize and annotate genome coverage with ggplot2 | [874], [875]
 R package | ggside | to enable users to add metadata to their ggplots with ease | [877]
 R package | dotplotly | Create an interactive or static dot plot from mummer output OR PAF format | [890]
+R package | ganttrify | nice-looking Gantt charts | [901], [902]
 
 
 ## Pipeline Managers
@@ -1513,5 +1515,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [898]: https://www.kaggle.com/
 [899]: https://github.com/xavierdidelot/ClonalFrameML
 [900]: https://doi.org/10.1371/journal.pcbi.1004041
+[901]: https://github.com/giocomai/ganttrify
+[902]: https://ganttrify.europeandatajournalism.eu/
+[903]: https://github.com/thackl/minidot
 
 Save
