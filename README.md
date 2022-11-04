@@ -7,7 +7,6 @@ Category          | Name               |                 Description            
 Training collection | SIB | A curated list of bioinformatics training material | [861]
 Tutorial | Python Tutorial | Python Tutorial | [862]
 
-
 ## Containers
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -507,7 +506,6 @@ R package | ggside | to enable users to add metadata to their ggplots with ease 
 R package | dotplotly | Create an interactive or static dot plot from mummer output OR PAF format | [890]
 
 
-
 ## Pipeline Managers
 Category          | Name               |                 Description                    | Link              
 ------------------|--------------------|------------------------------------------------|-------------------
@@ -601,6 +599,7 @@ Webpage | webpage-repository | the website of AllanLab academic research group a
 Tutorial | Machine Learning | Machine Learning for Everyone | [809]
 R package | RPushbullet | a package to send messages to your devices from R | [815], [816]
 R package | portfoliodown | makes it painless for data scientists to create a polished professional website so they can host their project portfolios, get great job interviews, and launch their data science careers | [818]
+Scripts | blantyreESBL | This document contains reproducing analysis code which generates the tables and figures for the manuscript: Dynamics of gut mucosal colonisation with extended spectrum beta-lactamase producing Enterobacterales in Malawi | [891], [892]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1498,6 +1497,10 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [887]: https://github.com/mummer4/mummer
 [888]: https://doi.org/10.1371/journal.pcbi.1005944
 [889]: https://tom-poorten.shinyapps.io/dotplotly_shiny/
-[890]: 
+[890]: https://github.com/tpoorten/dotPlotly
+[891]: https://github.com/joelewis101/blantyreESBL
+[892]: https://zenodo.org/record/5554082#.Y2QuwuzMIUr
+[893]: 
+
 
 Save
