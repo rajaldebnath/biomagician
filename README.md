@@ -378,6 +378,7 @@ Tool | SKA | a toolkit for prokaryotic DNA sequence analysis (phylogeny) using s
 Tool | Mashtree | a rapid comparison of whole genome sequence files | [883], [884]
 Pipeline | mGEMS | Bacterial sequencing data binning on strain-level based on probabilistic taxonomic classification | [885], [886]
 Tool | D-GENIES | Dot plot large Genomes in an Interactive, Efficient and Simple way | [893], [894], [895]
+Tool | nanotimeparse | parses an Oxford Nanopore fastq file on read sequencing start times found in the fastq headers | [897]
 
 
 
@@ -1506,5 +1507,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [894]: https://github.com/genotoul-bioinfo/dgenies
 [895]: https://peerj.com/articles/4958/#
 [896]: https://github.com/nf-core/modules/tree/master/modules/nf-core
+[897]: https://github.com/raplayer/nanotimeparse
 
 Save
