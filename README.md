@@ -379,6 +379,7 @@ Tool | Mashtree | a rapid comparison of whole genome sequence files | [883], [88
 Pipeline | mGEMS | Bacterial sequencing data binning on strain-level based on probabilistic taxonomic classification | [885], [886]
 Tool | D-GENIES | Dot plot large Genomes in an Interactive, Efficient and Simple way | [893], [894], [895]
 Tool | nanotimeparse | parses an Oxford Nanopore fastq file on read sequencing start times found in the fastq headers | [897]
+Tool | ClonalFrameML | package that performs efficient inference of recombination in bacterial genomes | [899], [900]
 
 
 
@@ -603,6 +604,7 @@ R package | RPushbullet | a package to send messages to your devices from R | [8
 R package | portfoliodown | makes it painless for data scientists to create a polished professional website so they can host their project portfolios, get great job interviews, and launch their data science careers | [818]
 Scripts | blantyreESBL | This document contains reproducing analysis code which generates the tables and figures for the manuscript: Dynamics of gut mucosal colonisation with extended spectrum beta-lactamase producing Enterobacterales in Malawi | [891], [892]
 codes | nf-modules | A repository for hosting Nextflow DSL2 module files containing tool-specific process | [896]
+Tutorial | Kaggle | Data Science competition | [898]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1508,5 +1510,8 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [895]: https://peerj.com/articles/4958/#
 [896]: https://github.com/nf-core/modules/tree/master/modules/nf-core
 [897]: https://github.com/raplayer/nanotimeparse
+[898]: https://www.kaggle.com/
+[899]: https://github.com/xavierdidelot/ClonalFrameML
+[900]: https://doi.org/10.1371/journal.pcbi.1004041
 
 Save
