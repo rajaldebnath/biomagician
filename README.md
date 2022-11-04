@@ -377,6 +377,7 @@ Tool | Gubbins | Genealogies Unbiased By recomBinations In Nucleotide Sequences 
 Tool | SKA | a toolkit for prokaryotic DNA sequence analysis (phylogeny) using split kmers | [881], [882]
 Tool | Mashtree | a rapid comparison of whole genome sequence files | [883], [884]
 Pipeline | mGEMS | Bacterial sequencing data binning on strain-level based on probabilistic taxonomic classification | [885], [886]
+Tool | D-GENIES | Dot plot large Genomes in an Interactive, Efficient and Simple way | [893], [894], [895]
 
 
 
@@ -1500,7 +1501,9 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [890]: https://github.com/tpoorten/dotPlotly
 [891]: https://github.com/joelewis101/blantyreESBL
 [892]: https://zenodo.org/record/5554082#.Y2QuwuzMIUr
-[893]: 
+[893]: https://dgenies.toulouse.inra.fr/
+[894]: https://github.com/genotoul-bioinfo/dgenies
+[895]: https://peerj.com/articles/4958/#
 
 
 Save
