@@ -607,7 +607,7 @@ R package | portfoliodown | makes it painless for data scientists to create a po
 Scripts | blantyreESBL | This document contains reproducing analysis code which generates the tables and figures for the manuscript: Dynamics of gut mucosal colonisation with extended spectrum beta-lactamase producing Enterobacterales in Malawi | [891], [892]
 codes | nf-modules | A repository for hosting Nextflow DSL2 module files containing tool-specific process | [896]
 Tutorial | Kaggle | Data Science competition | [898]
-Tutorial | Perfect-bacterial-genome-tutorial | Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing | [904]
+Tutorial | Perfect-bacterial-genome-tutorial | Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing | [904], [905]
 
 ***
 Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
@@ -1520,6 +1520,6 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [902]: https://ganttrify.europeandatajournalism.eu/
 [903]: https://github.com/thackl/minidot
 [904]: https://10.1590/SciELOPreprints.5053
-
+[905]: https://github.com/rrwick/Perfect-bacterial-genome-tutorial/wiki
 
 Save
