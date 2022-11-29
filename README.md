@@ -509,6 +509,7 @@ R Package | ggcoverage | Visualize and annotate genome coverage with ggplot2 | [
 R package | ggside | to enable users to add metadata to their ggplots with ease | [877]
 R package | dotplotly | Create an interactive or static dot plot from mummer output OR PAF format | [890]
 R package | ganttrify | nice-looking Gantt charts | [901], [902]
+R package | fastbaps | The fast BAPS algorithm is based on applying the hierarchical Bayesian clustering (BHC) algorithm to the problem of clustering genetic sequences using the same likelihood as BAPS | [906], [907]
 
 
 ## Pipeline Managers
@@ -1521,5 +1522,7 @@ Website to look up Markdown Syntax [https://github.com/adam-p/markdown-here/wiki
 [903]: https://github.com/thackl/minidot
 [904]: https://10.1590/SciELOPreprints.5053
 [905]: https://github.com/rrwick/Perfect-bacterial-genome-tutorial/wiki
+[906]: https://github.com/gtonkinhill/fastbaps
+[907]: https://doi.org/10.1093/nar/gkz361
 
 Save
